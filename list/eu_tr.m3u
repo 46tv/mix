@@ -48,16 +48,16 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id"tytturk.tr"              tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/tyt-turk.png"                       ,TYT TURK
 https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"   tvg-id="TLC.tr"                 tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/TLC.png"                             ,TLC
+#EXTINF:-1 group-title="TR | ULUSAL CH"   tvg-id="TLC.tr"                 tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TLC.png"                           ,TLC
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="DMAX.tr"                tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/DMAX.png"                             ,DMAX HD
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="DMAX.tr"                tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/DMAX.png"                           ,DMAX HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48961
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/MELTEMTV.png"                         ,MELTEM TV
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/MELTEMTV.png"                       ,MELTEM TV
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 
-# 19#################################################################################################################################################################################################
+#####################################################################################################################################################################################################
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TRTBELGESEL.png"                    ,TRT BELGESEL HD
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
@@ -68,10 +68,10 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Tgr
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id"cgtnturk.tr"             tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/cgtn.pgn"                           ,CGTN TR
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/bizimev-tv.png"                     ,Bizim_Ev_Tv
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/bizimev-tv.png"                     ,Bizim Ev Tv
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bizim_Ev_Tv.m3u8?t=1772961348
 
-# 23#################################################################################################################################################################################################
+#####################################################################################################################################################################################################
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TV24.png"                           ,24 HD
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
@@ -93,6 +93,7 @@ https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=81&app=c98ab0b0
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="haberglobal.tr"         tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/HABERGLOBAL.png"                    ,HABER GLOBAL HD
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Haber_Global_TV.m3u8
+#https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id"Tv100.tr"                tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TV100.png"                          ,TV100
 https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
@@ -133,7 +134,7 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Eko
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="tbmm.tr"                tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TBMMTV.png"                          ,TBMM TV	
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
-# 38#################################################################################################################################################################################################
+#####################################################################################################################################################################################################
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRTGenc.tr"             tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/trtgenc.png"                        ,TRT GENC
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
@@ -168,7 +169,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48861
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="EuroD.tr"               tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/euro-d.png"                         ,EURO D
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
 
-# 49#################################################################################################################################################################################################
+#####################################################################################################################################################################################################
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/cem-tv.png"                         ,CEM TV
 https://tv.cemtv.net:19360/cemtv/cemtv.m3u8
@@ -182,19 +183,19 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/kral-pop-tv.png"                    ,KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_35.png"    ,PT POWER TURK	
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/POWERTURK.png"                        ,PT POWER TURK	
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2015/12/turk-tv-logo.jpg"                ,NR1 TURK	
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/number-one-turk.png"                  ,NR1 TURK	
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/ask-tv-web.jpg"                  ,NR1 ASK
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/number-one-ask.png"                   ,NR1 ASK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/damar-tv-web.jpg"                ,NR1 DAMAR
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/number-one-damar.png "                ,NR1 DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
 
-# 58#################################################################################################################################################################################################
+#####################################################################################################################################################################################################
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id"trtcocuk.tr"             tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TRTCOCUK.png"                       ,TRT COCUK
 http://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
@@ -208,13 +209,16 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/MINIKACOCUK.png"                    ,MINIKA COCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CIZGIFILM
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CIZGI FILM
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/1.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,KANAL F COCUK
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/tomundjerry.png"                    ,TOM & JERRY
+https://catcast.ismailturret.workers.dev/tomandjerry
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/fcocuk.png"                         ,KANAL F COCUK
 https://catcast.ismailturret.workers.dev/fcocuk.m3u8
 
-# 63#################################################################################################################################################################################################
+#####################################################################################################################################################################################################
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/DIYANETTV.png"                      ,DIYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
@@ -240,7 +244,7 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,MEDINE TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
-# 71#################################################################################################################################################################################################
+#####################################################################################################################################################################################################
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/BEINSPORTHABER.png"                 ,BEINSPOR HBR
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
@@ -257,10 +261,10 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/sifirtv.png"                        ,SIFIR TV
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,GOZCU SPOR
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TURKSAT SPOR
 http://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
 
-# 77#################################################################################################################################################################################################
+#####################################################################################################################################################################################################
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/ekoltv.png"                         ,EKOL TV
 http://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
@@ -293,7 +297,13 @@ http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TURKUZPLAY
-https://github.com/UzunMuhalefet/streams/raw/refs/heads/main/catcast/turkuzplay1.m3u8
+https://github.com/UzunMuhalefet/streams/raw/main/catcast/turkuzplay1.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/Gulsahfilm.jpeg"                    ,FILM GULSAH
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Kemal_Sunal_Tv.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KORKU FILMLERI
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Korku_Filmleri_Tv.m3u8
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,YANSIMA TV
 https://catcast.ismailturret.workers.dev/50817.m3u8
@@ -313,31 +323,31 @@ https://catcast.ismailturret.workers.dev/ksunal.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,HABABAM TV
 https://catcast.ismailturret.workers.dev/hababam.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,KANAL F YESILCAM
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/fyesilcam.png"                      ,KANAL F YESILCAM
 https://catcast.ismailturret.workers.dev/fyesilcam.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,KANAL F DIZI
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/fdizi.png"                          ,KANAL F DIZI
 https://catcast.ismailturret.workers.dev/kanal-f.m3u8
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TV BEGEN
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/TV5.png"                              ,TV 5
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TV5.png"                            ,TV 5
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/tivi6.png"                            ,TiVi 6
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/tivi6.png"                          ,TiVi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/CHANNEL6TV.png"                       ,CHANNEL 6
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/CHANNEL6TV.png"                     ,CHANNEL 6
 https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/bikanal.png"                          ,BI KANAL
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/bikanal.png"                          ,BI KANAL
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/Cine1.jpg"                            ,cine 1
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/Cine1.jpg"                            ,cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?autoplay=1
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6"                      ,MMN TV
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MMN TV
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist_w1571985729.m3u8
 
 #####################################################################################################################################################################################################
@@ -356,7 +366,16 @@ https://catcast.ismailturret.workers.dev/fanatikmusicnesetertas.m3u8
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,KANAL F MUZIK
 https://catcast.ismailturret.workers.dev/fmuzik.m3u8
-
+#####################################################################################################################################################################################################
+#####################################################################################################################################################################################################
+#####################################################################################################################################################################################################
+#####################################################################################################################################################################################################
+#####################################################################################################################################################################################################
+#####################################################################################################################################################################################################
+#####################################################################################################################################################################################################
+#####################################################################################################################################################################################################
+#####################################################################################################################################################################################################
+#####################################################################################################################################################################################################
 
 
 
