@@ -355,9 +355,6 @@ http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist_w1571985729.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MUZIK TV
 https://catcast.ismailturret.workers.dev/50486.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,YILDIZ TV
-https://catcast.ismailturret.workers.dev/ulduz-tv.m3u8
-
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MUTLU TV
 https://catcast.ismailturret.workers.dev/mutlutv.m3u8
 
