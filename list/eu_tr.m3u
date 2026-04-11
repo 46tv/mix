@@ -331,13 +331,13 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/CHANNEL6TV.png"                       ,CHANNEL 6
 https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/bikanal.png"                          ,BI KANAL
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/bikanal.png"                          ,BI KANAL
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/Cine1.jpg"                            ,cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?autoplay=1
 
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                      tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6"                      ,MMN TV
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6"                      ,MMN TV
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist_w1571985729.m3u8
 
 #####################################################################################################################################################################################################
