@@ -155,7 +155,10 @@ https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
 https://dogus.tecostream.xyz/now.m3u8
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="EuroSTAR.tr"            tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/euro-star.png"                     ,EUROSTAR
-https://mn-nl.mncdn.com/dogusdyg_eurostar/live.m3u8?st=iM2LWkYxtXzA055guEEVPg&e=1773048676
+https://www.parsatv.com/name=Euro-Star
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="EuroSTAR.tr"            tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/euro-star.png"                     ,EUROSTAR
+http://tv.smartglwiz.workers.dev/?ID=EuroStar_HD
+
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="kanalavrupa.tr"         tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/KanalAvrupa.png"                   ,KANAL AVRUPA	
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
