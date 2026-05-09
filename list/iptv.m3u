@@ -174,6 +174,9 @@ https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
 
 #####################################################################################################################################################################################################
 
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/EKINTV.png"                        ,EKIN TV
+https://tv.vebusoft.com/stream_proxy.php?file=ekintv.m3u8
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/cem-tv.png"                        ,CEM TV
 https://tv.cemtv.net:19360/cemtv/cemtv.m3u8
 
