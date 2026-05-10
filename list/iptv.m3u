@@ -9714,5 +9714,45 @@ https://netplus.zappr.stream/france2hd.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                       tvg-logo=""                                                                                       ,TF1 HD
 https://netplus.zappr.stream/tf1hd.m3u8
 
+#EXTINF:-1 ,deneme
+https://www.turkuvapp.com/webView/live/ahaber
+#EXTINF:-1 ,deneme
+https://www.turkuvapp.com/webView/live/aspor
+#EXTINF:-1 ,deneme
+https://www.turkuvapp.com/webView/live/apara
+#EXTINF:-1 ,deneme
+https://www.turkuvapp.com/webView/live/atv
+#EXTINF:-1 ,deneme
+https://www.turkuvapp.com/webView/live/a2tv
+#EXTINF:-1 ,deneme
+https://www.turkuvapp.com/webView/live/anews
+#EXTINF:-1 ,deneme
+https://www.turkuvapp.com/webView/live/vavtv
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 ,deneme
+https://www.turkuvapp.com/webView/live/ahaber?autoplay=1
+#EXTINF:-1 ,deneme
+https://www.turkuvapp.com/webView/live/aspor?autoplay=1
+#EXTINF:-1 ,deneme
+https://www.turkuvapp.com/webView/live/apara?autoplay=1
+#EXTINF:-1 ,deneme
+https://www.turkuvapp.com/webView/live/atv?autoplay=1
+#EXTINF:-1 ,deneme
+https://www.turkuvapp.com/webView/live/a2tv?autoplay=1
+#EXTINF:-1 ,deneme
+https://www.turkuvapp.com/webView/live/anews?autoplay=1
+#EXTINF:-1 ,deneme
+https://www.turkuvapp.com/webView/live/vavtv?autoplay=1
+
+
+
 
 
