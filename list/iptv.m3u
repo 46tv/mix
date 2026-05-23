@@ -2205,6 +2205,31 @@ https://www.euromediacenter.com/kackartv-6207.m3u8
 
 
 
+#EXTINF:-1 group-title="TR | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,SELALE KAVSAGI
+https://camstream.kahramanmaras.bel.tr/live/selale.stream/playlist.m3u8
+#EXTINF:-1 group-title="TR | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,ULU CAMII
+https://camstream.kahramanmaras.bel.tr/live/ulucami.stream/playlist.m3u8
+#EXTINF:-1 group-title="TR | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,TAVSAN TEPE
+https://camstream.kahramanmaras.bel.tr/live/tavsantepe.stream/playlist.m3u8
+#EXTINF:-1 group-title="TR | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,EXPO
+https://camstream.kahramanmaras.bel.tr/live/expo.stream/playlist.m3u8
+#EXTINF:-1 group-title="TR | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,AFSIN
+https://camstream.kahramanmaras.bel.tr/live/afsin.stream/playlist.m3u8
+#EXTINF:-1 group-title="TR | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,ANDIRIN
+https://camstream.kahramanmaras.bel.tr/live/andirin.stream/playlist.m3u8
+#EXTINF:-1 group-title="TR | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,CAGLAYAN CERIT
+https://camstream.kahramanmaras.bel.tr/live/caglayan-cerit.stream/playlist.m3u8
+#EXTINF:-1 group-title="TR | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,ELBISTAN MEYDAN
+https://camstream.kahramanmaras.bel.tr/live/elbistan-meydan.stream/playlist.m3u8
+#EXTINF:-1 group-title="TR | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,EKINOZU
+https://camstream.kahramanmaras.bel.tr/live/ekinozu.stream/playlist.m3u8
+#EXTINF:-1 group-title="TR | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,GOKSUN KAVSAGI
+https://camstream.kahramanmaras.bel.tr/live/goksun.stream/playlist.m3u8
+#EXTINF:-1 group-title="TR | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,BOgAZICI KAVSAGI
+https://camstream.kahramanmaras.bel.tr/live/bogazici.stream/playlist.m3u8
+#EXTINF:-1 group-title="TR | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,MALIK EJDER
+https://camstream.kahramanmaras.bel.tr/live/malik-ejder.stream/playlist.m3u8
+
 
 
 
