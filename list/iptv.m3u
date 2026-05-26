@@ -122,7 +122,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"benguturk.tr"            tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/BENGUTURK.png"                     ,BENGUTURK
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="cnnturk.tr"             tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/cnnturk.png"                       ,CNN TURK
-https://65.108.239.207/cnn/index.m3u8
+http://46.32.176.50/cnnturk/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="haberturk.tr"           tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/HABERTURK.png"                            ,HABERTURK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"haberglobal.tr"          tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/HABERGLOBAL.png"                   ,HABER GLOBAL
@@ -1303,7 +1303,7 @@ http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist_w1571985729.m3u8
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id="afyonturk.tr"           tvg-logo="https://canlitv.center/channels/afyon-turktv.png"                                        ,AFYON TURK
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,4U TV
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,4U TV
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id="KanalD.al"              tvg-logo="https://i.imgur.com/9o1atM6.png"                                                         ,KANAL D DRAMA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -1412,6 +1412,240 @@ http://145.239.37.125:20458/foramuzik/foramuzik/playlist.m3u8
 https://ip100.radyotelekomtv.com:3968/stream/play.m3u8
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                        ,ESpiye TV
 https://cdn-espiyetv.yayin.com.tr/espiyetv/espiyetv/playlist.m3u8
+
+
+
+#####################################################################################################################################################################################################
+#######  RADYOLAR          ##########################################################################################################################################################################
+#####################################################################################################################################################################################################
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="TRTRadyo1.tr"           tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467415.jpeg"                            ,TRT RADYO 1
+https://radio-trtradyo1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,TRT RADYO 1
+https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="TRTFM.tr"               tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467418.jpeg"                            ,TRT FM
+https://radio-trtfm.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,TRT Antalya
+https://radio-trtantalya.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,Türkiye'nin sesi
+https://radio-trttsr.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="ALEMFM.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/alem-fm.jpg"                           ,Alem FM
+https://edge1.radyotvonline.net/shoutcast/play/alemfm
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="BestFM.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/best-fm-dinle-100x100.png"             ,BEST FM
+http://37.247.100.100/best/bestfm.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo="https://showradyo.com.tr/wp-content/uploads/2020/06/logo-show-129x80-1.png"              ,Show radyo
+https://46.20.3.228/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo="https://demo.radyoviva.com.tr/wp-content/uploads/2020/06/radyo-viva.png"                 ,Radyo Viva
+https://ssl4.radyotvonline.com/radyohome/radyovivahome.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="RadyoD.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-d-dinle.png"                     ,RADYO D
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="SuperFM.tr"             tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/super-fm-dinle.jpg"                    ,Super FM
+https://25443.live.streamtheworld.com/SUPER_FM_SC?/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="superFM2.tr"            tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/super-2-fm.jpg"                        ,Super FM2
+https://25483.live.streamtheworld.com/SUPER2_SC?/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="Metropol Fm"            tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/metropol-fm.jpg"                       ,Metropol FM Almanya
+https://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="Radyo7.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-7.jpg"                           ,Radyo 7
+http://46.20.3.251/stream/169/
+#https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo="https://i.tmgrup.com.tr/tmg/turkuvazmedyagrubu/assets/img/logo_dark.png"                 ,Turkuvaz Radyo
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/chunklist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,power türk
+https://listen.powerapp.com.tr/powerturktaptaze/abr/powerturktaptaze/128/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,power vokal
+https://moondigitalmaster.radyotvonline.net/radyovokal/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,kral fm
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,arabeskland radyo
+https://moondigitalmaster.radyotvonline.net/arabeskland/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,baba radyo
+https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,kafa radyo
+https://live.kafaradyo.com/radyoland/kafaradyo.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="Aspor.tr"               tvg-logo="https://i.tmgrup.com.tr/tmg/turkuvazmedyagrubu/assets/img/logolar/aspor.png"             ,A Spor Radyo
+https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,radyo spor
+https://wowza1.radyotvonline.com/saran/radyospor.stream/chunklist_w959732395.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,radyo fenerbahce
+https://ssl4.radyotvonline.com/radyohome/radyofenerbahcehome.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,radyo trafik
+https://ssl4.radyotvonline.com/radyohome/radyotrafikhome.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,radyo gol
+https://wowza1.radyotvonline.com/unitedmedia/radyogol.stream/chunklist_w510741187.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="AHaber.tr"              tvg-logo="https://i.tmgrup.com.tr/tmg/turkuvazmedyagrubu/assets/img/logolar/ahaber.png"            ,A Haber Radyo
+https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="APara.tr"               tvg-logo="https://i.tmgrup.com.tr/tmg/turkuvazmedyagrubu/assets/img/logolar/apara.png"             ,A Para Radyo
+https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="Aspor.tr"               tvg-logo="https://i.tmgrup.com.tr/tmg/turkuvazmedyagrubu/assets/img/logolar/aspor.png"             ,A Spor Radyo
+https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo="https://i.tmgrup.com.tr/tmg/turkuvazmedyagrubu/assets/img/logo_dark.png"                 ,Turkuvaz Radyo
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/chunklist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo="https://i.tmgrup.com.tr/tmg/turkuvazmedyagrubu/assets/img/logo_dark.png"                 ,Turkuvaz Anadolu
+https://trkvz-radyolar.ercdn.net/turkuvazanadolu/chunklist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo="https://i.tmgrup.com.tr/tmg/turkuvazmedyagrubu/assets/img/logo_dark.png"                 ,Turkuvaz Efsane
+https://trkvz-radyolar.ercdn.net/turkuvazefsane/chunklist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo="https://i.tmgrup.com.tr/tmg/turkuvazmedyagrubu/assets/img/logo_dark.png"                 ,Turkuaz Nostalji
+https://trkvz-radyolar.ercdn.net/turkuvaznostalji/chunklist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="Radyo7.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-7.jpg"                           ,Radyo 7
+http://46.20.3.251/stream/169/
+#https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="Radyo7.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-7.jpg"                           ,Radyo 7 arabesk
+https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="Radyo7.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-7.jpg"                           ,Radyo 7 türkü
+https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="NTV.tr"                 tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/ntv-radyo.jpg"                         ,NTV Radyo
+http://ntvrdfms.radyotvonline.com/smil/smil:ntvradyo.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="CNNTURK.tr"             tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/cnn-turk-dinle.jpg"                    ,CNN TURK FM
+https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO MEVLANA
+https://radyo.radyomevlana.com:9786/stream
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,akra fm
+https://cdn3.akradyo.net/akracanli2/definst/livestream_aac/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,diyanet kuran meal radyo
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,diyanet radyo
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,diyanet risalet radyo
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,tgrt fm
+https://canli1.ihlasdigitalassets.com/tgrtfm.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,doksanlar fm
+https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,ankara havaları
+https://moondigitalmaster.radyotvonline.net/ankarahavalari/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,ege havaları
+https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,ARABESK TURK
+http://yayin.arabeskturk.com:8000/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,ARABESK VADISI
+https://arabeskv.80.yayin.com.tr/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,ARABESK FM
+http://yayin.arabeskfm.biz:8042/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,ARMONI FM
+http://radyo.yayindakiler.com:4084/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,ADA FM
+https://radyo.yayin.com.tr:6040/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,SLOW KARADENIZ FM
+https://dinle.slowkaradenizfm.com:9578/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,KORGANIN SESI 
+https://anadolu.liderhost.com.tr:10908/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,KARADENIZ TURK
+https://furuncu.kesintisizyayin.com:8042/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,KEMENCE FM
+https://ip132.ozelip.com:8058/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,KRAL TURK
+http://live.radyositesihazir.com:8032/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO TATLISES
+http://sslyayin.radyoyayini.com:8002/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO YAKAMOZ
+http://live4.radyotvonline.com:6570/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO KADIRGA
+https://radyo.yayin.com.tr:4022/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO DERMAN 
+https://ssl120.radyotelekom.com.tr:8710/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO GIREBI
+https://radyogirebi.kesintisizyayin.com:8066/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO DELTA 
+https://anadolu.liderhost.com.tr:10954/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO RIZE
+https://n227.ozelip.com:8010/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO EKIN 
+http://yayin.turkhosted.com:6006/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO 2000
+http://radyo2000.radyomhd.com:1100/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO 38
+https://anadolu.liderhost.com.tr:10892/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,DAMAR TURK
+http://live.radyositesihazir.com:7000/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RIZE TURK
+https://furuncu.kesintisizyayin.com:8044/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,CAYELI FM
+https://furuncu.kesintisizyayin.com:8078/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,GELISIM FM
+https://radyo.yayindakiler.com:4008/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,OZLEM FM
+http://yayin.turkiletisim.com.tr:1080/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,HAYAL FM
+http://yayin.radyohayalfm.net:8050/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,OTER FM
+https://radyo1.radyo-dinle.tc:7088/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,MERCAN FM
+https://ip169.ozelip.com:10975/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,LOKUM FM
+http://37.247.98.9/stream/493/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,DAMAR FM
+https://yayin.damarfm.com:8080/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,GEBZE FM
+http://gebzefm.radyotvyayini.com:9530/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,MERKEZ FM
+https://sslyayin.radyoyayini.com:7007/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,INCITEK FM
+http://yayin2.yayindakiler.com:4204/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,FISTIK FM 
+https://sslyayin.radyoyayini.com:7029/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,PALMIYE FM
+https://palmiyefm.radyotelekom.com.tr:8060/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,PAL NOSTALJI
+http://shoutcast.radyogrup.com:1010/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,24 ARABESK
+http://24arabesk.80.yayin.com.tr/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,KIVILCIM FM
+https://radyo1.radyo-dinle.tc:8066/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,HALK RADYO 
+https://anadolu.liderhost.com.tr:10876/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO MAKSAT 
+https://live.sinirsizhost.com:8038/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,MERT FM
+https://radyo.yayindakiler.com:4004/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO DEDE 
+https://live.sinirsizhost.com:8080/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,DENGE ZELAL FM
+https://ssl120.radyotelekom.com.tr:8546/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,KRAL FM
+http://kralwmp.radyotvonline.com/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO EFSANE
+http://37.247.98.8/stream/19/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO EKIN
+https://yayin.turkhosted.com:6006/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO CLUB
+https://yayin.mobilradyo.com.tr:8024/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO KANKA
+https://radyo1.radyo-dinle.tc:8106/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,AKUSTIK RADYO
+https://yayin.mobilradyom.com:8028/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO VEFA 
+https://dinle.radyotemasi.com:8016/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,SLOW FM
+https://radyo.yayin.com.tr:5376/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO CLAS 
+https://radyo.yayin.com.tr:5568/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO TUTKU 
+https://radyo.radyoimza.com:8024/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,BLUE KARADENIZ RADYO
+https://sslyayin.netyayin.net/bluekaradeniz/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO ANADOLU 
+https://radyoanadolu.ozelip.com:8028/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,ANADOLUNUN SESI 
+https://live.sinirsizhost.com:8069/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,ASYA FM 
+https://live.sinirsizhost.com:8004/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,CANKIRI FM
+https://sslyayin.radyoyayini.com:7066/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO KARADENIZ 
+https://dinle.radyokaradeniz.com/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,VITAMIN FM 
+https://ip.vitaminfm.com:8190/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,ZIRVE FM 
+https://radyo.iznel.com:8010/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,SONGUL ZAR RADYO 
+https://live.sinirsizhost.com/8034/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RIZE FM 
+https://radyo.medyahost.com.tr/8036/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO SEVIMLI 
+https://radyo.medyahost.com.tr:8004/;
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,RADYO CLUB
+https://yayin.mobilradyom.com:8024/;
+
+
 
 
 
