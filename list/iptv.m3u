@@ -41,35 +41,40 @@ https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8
 #####################################################################################################################################################################################################
 #######  BELGESEL          ##########################################################################################################################################################################
 #####################################################################################################################################################################################################
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="TLC.tr"                 tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TLC.png"                           ,TLC			#http://46.32.176.50/tlc/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="TLC.tr"                 tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TLC.png"                           ,TLC			# 🇹🇷 | TLC | Ozel Yayin
 http://umperisn.mywire.org/index.php?id=594664&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="DMAX.tr"                tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/DMAX.png"                          ,D MAX
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="DMAX.tr"                tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/DMAX.png"                          ,D MAX			# 🇹🇷 | D MAX | Ozel Yayin
 http://umperisn.mywire.org/index.php?id=594671&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TRTBELGESEL.png"                   ,TRT BELGESEL
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TRTBELGESEL.png"                   ,TRT BELGESEL		# 🇹🇷 | TRT BELGESEL | Ozel Yayin
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"tgrtbelgesel.tr"         tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/tgrtbelgesel.png"                  ,TGRT BELGESEL		#https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Tgrt_Belgesel.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"tgrtbelgesel.tr"         tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/tgrtbelgesel.png"                  ,TGRT BELGESEL		# 🇹🇷 | TGRT BELGESEL | Ozel Yayin
 http://umperisn.mywire.org/index.php?id=594640&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"cgtnturk.tr"             tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/cgtn.pgn"                          ,CGTN TR
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/bizimev-tv.png"                    ,BIZIM EV TV
 http://bizimevtvhd.streams-supersatforum.workers.dev/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,HABITAT TV
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,HABITAT TV			# 🇹🇷 | Habitat TV | Ozel Yayin
 http://umperisn.mywire.org/index.php?id=594650&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,ID
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,ID				# 🇹🇷 | ID | Ozel Yayin
 http://umperisn.mywire.org/index.php?id=594672&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,TARIH TV			#http://65.108.239.207:80/tarihtv/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,TARIH TV			# 🇹🇷 | TARIH TV | Ozel Yayin
 http://umperisn.mywire.org/index.php?id=594663&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DISCOVERY			#http://65.108.239.207:80/discovery/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DISCOVERY			# 🇹🇷 | Discovery | Ozel Yayin
 http://umperisn.mywire.org/index.php?id=594674&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,VIASAT			#https://65.108.239.207/history/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,VIASAT EXPLORE		# 🇹🇷 | Viasat EXPLORE | Ozel Yayin
+http://umperisn.mywire.org/index.php?id=594656&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,VIASAT HISTORY		# 🇹🇷 | Viasat HISTORY | Ozel Yayin
 http://umperisn.mywire.org/index.php?id=594658&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,BBC EARTH			#https://65.108.239.207/bbc/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,BBC EARTH			# 🇹🇷 | BBC EARTH | Ozel Yayin
 http://umperisn.mywire.org/index.php?id=594660&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,NAT GEO
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,NAT GEO			# 🇹🇷 | National Geograph | Ozel Yayin
 http://umperisn.mywire.org/index.php?id=594676&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,NAT GEO WILD
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,NAT GEO WILD		# 🇹🇷 | National Geograph WILD | Ozel Yayin
 http://umperisn.mywire.org/index.php?id=594678&token=DeaTHLesS
-
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,BEIN IZ			# 🇹🇷 | beIN IZ | Ozel Yayin
+http://umperisn.mywire.org/index.php?id=594654&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,BEIN GURME			# 🇹🇷 | beIN Gurme | Ozel Yayin
+http://umperisn.mywire.org/index.php?id=594652&token=DeaTHLesS
 #####################################################################################################################################################################################################
 #######  AVRUPA YAYINLARI  ##########################################################################################################################################################################
 #####################################################################################################################################################################################################
@@ -2092,6 +2097,8 @@ http://tv.smartglwiz.workers.dev/?ID=TLC_HD.m3u8
 https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/tlc/tlc_720p.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id="TLC.tr"                 tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TLC.png"                           ,TLC
 http://46.32.176.50/tlc/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id="TLC.tr"                 tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TLC.png"                           ,TLC
+http://umperisn.mywire.org/index.php?id=594664&token=DeaTHLesS
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id="DMAX.tr"                tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/DMAX.png"                          ,D MAX
 https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/dmax/dmax_720p.m3u8
@@ -2152,6 +2159,24 @@ https://tlkaycmdoq.turknet.ercdn.net/ckvbdssyig/tv100/tv100.m3u8
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id"tvnet.tr"                tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/tvnet.png"                         ,TV NET
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Tv_Net.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id=""                       tvg-logo=""                                                                                       ,TARIH TV			
+http://65.108.239.207:80/tarihtv/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id=""                       tvg-logo=""                                                                                       ,TARIH TV	
+http://umperisn.mywire.org/index.php?id=594663&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id=""                       tvg-logo=""                                                                                       ,DISCOVERY			
+http://65.108.239.207:80/discovery/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id=""                       tvg-logo=""                                                                                       ,DISCOVERY	
+http://umperisn.mywire.org/index.php?id=594674&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id=""                       tvg-logo=""                                                                                       ,VIASAT
+https://65.108.239.207/history/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id=""                       tvg-logo=""                                                                                       ,VIASAT
+http://umperisn.mywire.org/index.php?id=594658&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id=""                       tvg-logo=""                                                                                       ,BBC EARTH
+https://65.108.239.207/bbc/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id=""                       tvg-logo=""                                                                                       ,BBC EARTH
+http://umperisn.mywire.org/index.php?id=594660&token=DeaTHLesS
+
 
 #####################################################################################################################################################################################################
 
