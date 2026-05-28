@@ -41,28 +41,35 @@ https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8
 #####################################################################################################################################################################################################
 #######  BELGESEL          ##########################################################################################################################################################################
 #####################################################################################################################################################################################################
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="TLC.tr"                 tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TLC.png"                           ,TLC
-http://46.32.176.50/tlc/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="TLC.tr"                 tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TLC.png"                           ,TLC			#http://46.32.176.50/tlc/playlist.m3u8
+http://umperisn.mywire.org/index.php?id=594664&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="DMAX.tr"                tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/DMAX.png"                          ,D MAX
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48961
+http://umperisn.mywire.org/index.php?id=594671&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TRTBELGESEL.png"                   ,TRT BELGESEL
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48963
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"tgrtbelgesel.tr"         tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/tgrtbelgesel.png"                  ,TGRT BELGESEL
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Tgrt_Belgesel.m3u8
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"tgrtbelgesel.tr"         tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/tgrtbelgesel.png"                  ,TGRT BELGESEL		#https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Tgrt_Belgesel.m3u8
+http://umperisn.mywire.org/index.php?id=594640&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"cgtnturk.tr"             tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/cgtn.pgn"                          ,CGTN TR
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/bizimev-tv.png"                    ,BIZIM EV TV
 http://bizimevtvhd.streams-supersatforum.workers.dev/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,HABITAT TV
 http://umperisn.mywire.org/index.php?id=594650&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,TARIH TV
-http://65.108.239.207:80/tarihtv/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DISCOVERY
-http://65.108.239.207:80/discovery/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,VIASAT
-https://65.108.239.207/history/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,BBC EARTH
-https://65.108.239.207/bbc/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,ID
+http://umperisn.mywire.org/index.php?id=594672&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,TARIH TV			#http://65.108.239.207:80/tarihtv/index.m3u8
+http://umperisn.mywire.org/index.php?id=594663&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DISCOVERY			#http://65.108.239.207:80/discovery/index.m3u8
+http://umperisn.mywire.org/index.php?id=594674&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,VIASAT			#https://65.108.239.207/history/index.m3u8
+http://umperisn.mywire.org/index.php?id=594658&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,BBC EARTH			#https://65.108.239.207/bbc/index.m3u8
+http://umperisn.mywire.org/index.php?id=594660&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,NAT GEO
+http://umperisn.mywire.org/index.php?id=594676&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,NAT GEO WILD
+http://umperisn.mywire.org/index.php?id=594678&token=DeaTHLesS
+
 #####################################################################################################################################################################################################
 #######  AVRUPA YAYINLARI  ##########################################################################################################################################################################
 #####################################################################################################################################################################################################
