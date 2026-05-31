@@ -42,39 +42,39 @@ https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8
 #######  BELGESEL          ##########################################################################################################################################################################
 #####################################################################################################################################################################################################
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="TLC.tr"                 tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TLC.png"                           ,TLC
-https://raw.githubusercontent.com/46tv/mix/main/feed/tlc.m3u8
+http://umperisn.mywire.org/index.php?id=594664&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="DMAX.tr"                tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/DMAX.png"                          ,D MAX
-https://raw.githubusercontent.com/46tv/mix/main/feed/dmax.m3u8
+http://umperisn.mywire.org/index.php?id=594671&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TRTBELGESEL.png"                   ,TRT BELGESEL
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"tgrtbelgesel.tr"         tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/tgrtbelgesel.png"                  ,TGRT BELGESEL
-https://raw.githubusercontent.com/46tv/mix/main/feed/tgrtbelgesel.m3u8
+http://umperisn.mywire.org/index.php?id=594640&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"cgtnturk.tr"             tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/cgtn.pgn"                          ,CGTN TR
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/bizimev-tv.png"                    ,BIZIM EV TV
 http://bizimevtvhd.streams-supersatforum.workers.dev/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,HABITAT TV
-https://raw.githubusercontent.com/46tv/mix/main/feed/habitat.m3u8
+http://umperisn.mywire.org/index.php?id=594650&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,ID	
-https://raw.githubusercontent.com/46tv/mix/main/feed/id.m3u8
+http://umperisn.mywire.org/index.php?id=594672&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,TARIH TV
-https://raw.githubusercontent.com/46tv/mix/main/feed/tarihtv.m3u8
+http://umperisn.mywire.org/index.php?id=594663&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DISCOVERY
-https://raw.githubusercontent.com/46tv/mix/main/feed/discovery.m3u8
+http://umperisn.mywire.org/index.php?id=594674&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,VIASAT EXPLORE
-https://raw.githubusercontent.com/46tv/mix/main/feed/viasatexp.m3u8
+http://umperisn.mywire.org/index.php?id=594656&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,VIASAT HISTORY
-https://raw.githubusercontent.com/46tv/mix/main/feed/viasathis.m3u8
+http://umperisn.mywire.org/index.php?id=594658&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,BBC EARTH
-https://raw.githubusercontent.com/46tv/mix/main/feed/bbcearth.m3u8
+http://umperisn.mywire.org/index.php?id=594660&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,NAT GEO
-https://raw.githubusercontent.com/46tv/mix/main/feed/natgeo.m3u8
+http://umperisn.mywire.org/index.php?id=594676&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,NAT GEO WILD
-https://raw.githubusercontent.com/46tv/mix/main/feed/natgeowild.m3u8
+http://umperisn.mywire.org/index.php?id=594678&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,BEIN IZ
-https://raw.githubusercontent.com/46tv/mix/main/feed/beINiz.m3u8
+http://umperisn.mywire.org/index.php?id=594654&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,BEIN GURME
-https://raw.githubusercontent.com/46tv/mix/main/feed/beINgurme.m3u8
+http://umperisn.mywire.org/index.php?id=594652&token=DeaTHLesS
 #####################################################################################################################################################################################################
 #######  AVRUPA YAYINLARI  ##########################################################################################################################################################################
 #####################################################################################################################################################################################################
