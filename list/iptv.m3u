@@ -104,6 +104,8 @@ http://umperisn.mywire.org/index.php?id=594199&token=DeaTHLesS
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="isvicretv.tr"           tvg-logo="https://www.isvicretv.com/upload/tema/20220228__5564691424.jpg"                         ,ISVICRE TV	
 https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SUPERTURK
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"tele1.tr"                tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TELE1.png"                         ,TELE 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/ekoltv.png"                        ,EKOL TV
@@ -152,7 +154,7 @@ https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="ulketv.tr"              tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/ULKETV.png"                        ,ULKE TV
 http://149.13.0.66:4003/ulketv
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/AKITTV.png"                        ,AKIT TV
-https://raw.githubusercontent.com/46tv/mix/main/feed/akittv.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Akit_Tv.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/KRT.png"                           ,KRT TV
 http://umperisn.mywire.org/index.php?id=594231&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/SOZCUTV.png"                       ,SOZCU TV
