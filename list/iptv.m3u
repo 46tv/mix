@@ -1434,29 +1434,46 @@ https://cdn-espiyetv.yayin.com.tr/espiyetv/espiyetv/playlist.m3u8
 #######  RADYOLAR          ##########################################################################################################################################################################
 #####################################################################################################################################################################################################
 #EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="TRTRadyo1.tr"           tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467415.jpeg"                            ,TRT RADYO 1
-https://radio-trtradyo1.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,TRT RADYO 1
 https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="TRTFM.tr"               tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467418.jpeg"                            ,TRT FM
-https://radio-trtfm.live.trt.com.tr/master.m3u8
+https://rd-trtfm.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,TRT Antalya
 https://radio-trtantalya.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo=""                                                                                        ,Türkiye'nin sesi
 https://radio-trttsr.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="ALEMFM.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/alem-fm.jpg"                           ,Alem FM
-https://edge1.radyotvonline.net/shoutcast/play/alemfm
+https://alemfm.radyotvonline.net/alemfmaac
 #EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="BestFM.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/best-fm-dinle-100x100.png"             ,BEST FM
 http://37.247.100.100/best/bestfm.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo="https://showradyo.com.tr/wp-content/uploads/2020/06/logo-show-129x80-1.png"              ,Show radyo
-https://46.20.3.228/;
+https://listen.radyotvonline.net/hls/play/adsonline_showradyo.m3u8
 #EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo="https://demo.radyoviva.com.tr/wp-content/uploads/2020/06/radyo-viva.png"                 ,Radyo Viva
 https://ssl4.radyotvonline.com/radyohome/radyovivahome.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo="https://demo.radyoviva.com.tr/wp-content/uploads/2020/06/radyo-viva.png"                 ,Radyo Viva 
+https://listen.radyotvonline.net/hls/play/adsonline_radyoviva.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo="https://demo.radyoviva.com.tr/wp-content/uploads/2020/06/radyo-viva.png"                 ,Radyo Viva Efkar
+https://listen.radyotvonline.net/hls/play/viva_efkar.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo="https://demo.radyoviva.com.tr/wp-content/uploads/2020/06/radyo-viva.png"                 ,Radyo Viva POP
+https://listen.radyotvonline.net/hls/play/viva_pop.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo="https://demo.radyoviva.com.tr/wp-content/uploads/2020/06/radyo-viva.png"                 ,Radyo Viva Turca
+https://listen.radyotvonline.net/hls/play/viva_turca.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo="https://demo.radyoviva.com.tr/wp-content/uploads/2020/06/radyo-viva.png"                 ,Radyo Viva Club
+https://listen.radyotvonline.net/hls/play/viva_club.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo="https://demo.radyoviva.com.tr/wp-content/uploads/2020/06/radyo-viva.png"                 ,Radyo Viva Turku
+https://listen.radyotvonline.net/hls/play/viva_turku.m3u8
+#EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id=""                       tvg-logo="https://demo.radyoviva.com.tr/wp-content/uploads/2020/06/radyo-viva.png"                 ,Radyo 100 
+https://ssldyg2.radyotvonline.com/live/tv100radyo.stream/chunklist_w588922966.m3u8
+
+
 #EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="RadyoD.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-d-dinle.png"                     ,RADYO D
 https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="SuperFM.tr"             tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/super-fm-dinle.jpg"                    ,Super FM
 https://25443.live.streamtheworld.com/SUPER_FM_SC?/;
 #EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="superFM2.tr"            tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/super-2-fm.jpg"                        ,Super FM2
 https://25483.live.streamtheworld.com/SUPER2_SC?/;
+
 #EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="Metropol Fm"            tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/metropol-fm.jpg"                       ,Metropol FM Almanya
 https://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac
 #EXTINF:-1 group-title="🇹🇷 | RADYO CH"     tvg-id="Radyo7.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-7.jpg"                           ,Radyo 7
