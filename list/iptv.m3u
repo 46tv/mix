@@ -15,11 +15,11 @@ https://dogus.tecostream.xyz/now.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/tivi6.png"                         ,TiVi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="Kanal7.tr"              tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/KANAL7.png"                        ,KANAL 7
-http://149.13.0.66:4003/kanal7
+https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="TV8.tr"                 tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TV8.png"                           ,TV 8
-http://149.13.0.66:4002/tv8hd
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="TV85.tr"                tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TV8BUCUK.png"                      ,TV 8 bucuk
-http://149.13.0.66:4002/tv85hd
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="Start.tr"               tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/STARTV.png"                        ,STAR TV
 http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="ATV.tr"                 tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/ATV.png"                           ,ATV
@@ -49,8 +49,6 @@ http://umperisn.mywire.org/index.php?id=594671&token=DeaTHLesS
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"tgrtbelgesel.tr"         tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/tgrtbelgesel.png"                  ,TGRT BELGESEL
 http://umperisn.mywire.org/index.php?id=594640&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"cgtnturk.tr"             tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/cgtn.pgn"                          ,CGTN TR
-https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/bizimev-tv.png"                    ,BIZIM EV TV
 http://bizimevtvhd.streams-supersatforum.workers.dev/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,HABITAT TV
@@ -89,11 +87,13 @@ http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="EuroD.tr"               tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/euro-d.png"                        ,EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="EuroSTAR.tr"            tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/euro-star.png"                     ,EUROSTAR
-http://tv.smartglwiz.workers.dev/?ID=EuroStar_HD.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TV5.png"                           ,TV 5
-http://tv.smartglwiz.workers.dev/?ID=TV5_HD.m3u8
+#http://tv.smartglwiz.workers.dev/?ID=EuroStar_HD.m3u8
+https://raw.githubusercontent.com/46tv/mix/main/feed/eurostar.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="ShowTurk.tr"            tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/SHOWTV.png"                        ,SHOWTURK
-https://cdn.tecostream.xyz/showturk.m3u8
+https://raw.githubusercontent.com/46tv/mix/main/feed/showturk.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TV5.png"                           ,TV 5
+#http://tv.smartglwiz.workers.dev/?ID=TV5_HD.m3u8
+https://radyotelekomtv.com/player/m3u8/d38a38af9446339ff2540c460955f115/chunklist_w1760375574.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="Kanal7int.tr"           tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/KANAL7.png"                        ,KANAL 7 EU
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="TV8.tr"                 tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TV8.png"                           ,TV 8 INT
@@ -190,7 +190,9 @@ http://umperisn.mywire.org/index.php?id=594208&token=DeaTHLesS
 https://streams.uzunmuhalefet.com/stream/93841168-9d59-43d0-9246-e04b64558b05.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"CNBC-E.tr"               tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/CNBCE.png"                         ,CNBC e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/BLOOMBERGHT.png"                   ,BLOOMBERG HThttps://tv.ensonhaber.com/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/BLOOMBERGHT.png"                   ,BLOOMBERG HT
+https://tv.ensonhaber.com/bloomberght/bloomberght_720p.m3u8
+
 #####################################################################################################################################################################################################
 #######  SPOR              ##########################################################################################################################################################################
 #####################################################################################################################################################################################################
@@ -253,6 +255,52 @@ http://65.108.239.207/t4/index.m3u8
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,SPORTS TV
 http://tv.smartglwiz.workers.dev/?ID=SportsTV_HD.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,beIN Spor
+https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,Tivibu Spor
+https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
+
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,Bein Sports
+https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://biraz.7486038.xyz/checklist/androstreamlivebiraz1.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,Web BeIN Sports+++
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,test2 Spor Kanalı
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1514.xyz
+https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,test1 Spor Kanalı
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://site-adresi.com/
+#EXTVLCOPT:http-origin=https://site-adresi.com
+https://api.codetabs.com/v1/proxy/?quest=https://yayin-linki.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,VPN BeIN Sports++
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,VPN BeIN Sport 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+#EXTVLCOPT:http-origin=https://bilyonersport1.com
+#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
+https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,VPN VARSPORTS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-origin=https://cdn.datapack.xyz
+#EXTVLCOPT:http-referrer=https://cdn.datapack.xyz/
+http://izipizi1.info:80/live/ItcElekt90dnzR/ItcElekt90dftjc/39895.m3u8
+
+
+
 #####################################################################################################################################################################################################
 #######  COCUK             ##########################################################################################################################################################################
 #####################################################################################################################################################################################################
@@ -4215,8 +4263,8 @@ http://umperisn.mywire.org/index.php?id=591610&token=DeaTHLesS
 http://umperisn.mywire.org/index.php?id=591611&token=DeaTHLesS
 
 
-
-
+#EXTINF:-1 group-title="🇹🇷 | OZEL CH" ,MK 
+http://umperisn.mywire.org/index.php?id=598046&token=DeaTHLesS
 
 
 
