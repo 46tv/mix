@@ -104,8 +104,6 @@ http://umperisn.mywire.org/index.php?id=594199&token=DeaTHLesS
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="isvicretv.tr"           tvg-logo="https://www.isvicretv.com/upload/tema/20220228__5564691424.jpg"                         ,ISVICRE TV	
 https://i41.ozelip.com:3269/hybrid/play.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SUPERTURK
-http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"tele1.tr"                tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TELE1.png"                         ,TELE 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/ekoltv.png"                        ,EKOL TV
@@ -114,8 +112,46 @@ http://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 http://5.178.103.239:55/d/live/out.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="cine6.tr"               tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/tabiitv.png"                       ,TABII TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,IPTV 100
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,FILM SCREEN INT
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,EPIC DRAMA
+http://umperisn.mywire.org/index.php?id=591437&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,EURO 90 CH
+http://euro90ch.streams-supersatforum.workers.dev/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,HABABAM TV
+https://catcast.ismailturret.workers.dev/hababam.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 1
+http://cineplus-yesilcam.supersatadmin.workers.dev/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 3
+https://catcast.ismailturret.workers.dev/fanatikmaxyesilcam.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI ZALIM ISTANBUL
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI TATLI INTIKAM
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI SIYAH BEYAZ ASK
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI NOSTALJI
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI CENNET MAHALLESI
+https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI AVRUPA YAKASI
+https://catcast.ismailturret.workers.dev/fanatikprimeavrupayakasi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI ESREF TEK
+https://catcast.ismailturret.workers.dev/fanatikprimeesreftek.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI KURTLAR VADISI
+https://catcast.ismailturret.workers.dev/fanatikprimekurtlarvadisi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI BIZIMKILER
+https://catcast.ismailturret.workers.dev/fanatikprimebizimkiler.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX DAG
+https://catcast.ismailturret.workers.dev/fanatikmaxdag.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX KORKU
+https://catcast.ismailturret.workers.dev/fanatikmaxkorku.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX KARAYIP KORSANLARI
+https://catcast.ismailturret.workers.dev/fanatikmaxboxkarayipkorsanlari.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX PRIME
+https://catcast.ismailturret.workers.dev/fanatikprimeEdStafford.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX POOL
+https://catcast.ismailturret.workers.dev/fanatikmaxdeadpool.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,TURKUZPLAY
 https://github.com/UzunMuhalefet/streams/raw/main/catcast/turkuzplay1.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-300x109.png"                                     ,SDM FILM TV
@@ -226,6 +262,8 @@ http://tv.smartglwiz.workers.dev/?ID=FBTV_HD.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Tjk_Tv.m3u8?t=1772961348
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,TAY TV
 http://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN SPORT DIRECK
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4194.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,EUROSPORT 1
 https://api.hitnova.net/s/eu1/mono.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,EUROSPORT 2
@@ -623,6 +661,50 @@ https://camiatv-live.ercdn.net/camiatv/camiatv.m3u8
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 #EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,EPIC DRAMA
 http://umperisn.mywire.org/index.php?id=591437&token=DeaTHLesS
+#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id""                        tvg-logo=""                                                                                       ,EURO 90 CH
+http://euro90ch.streams-supersatforum.workers.dev/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,HABABAM TV
+https://catcast.ismailturret.workers.dev/hababam.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 1
+http://cineplus-yesilcam.supersatadmin.workers.dev/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 3
+https://catcast.ismailturret.workers.dev/fanatikmaxyesilcam.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI ZALIM ISTANBUL
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI TATLI INTIKAM
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI SIYAH BEYAZ ASK
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
+
+
+#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI NOSTALJI
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI CENNET MAHALLESI
+https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI AVRUPA YAKASI
+https://catcast.ismailturret.workers.dev/fanatikprimeavrupayakasi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI ESREF TEK
+https://catcast.ismailturret.workers.dev/fanatikprimeesreftek.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI KURTLAR VADISI
+https://catcast.ismailturret.workers.dev/fanatikprimekurtlarvadisi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI BIZIMKILER
+https://catcast.ismailturret.workers.dev/fanatikprimebizimkiler.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX DAG
+https://catcast.ismailturret.workers.dev/fanatikmaxdag.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX KORKU
+https://catcast.ismailturret.workers.dev/fanatikmaxkorku.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                       ,MAX KARAYIP KORSANLARI
+https://catcast.ismailturret.workers.dev/fanatikmaxboxkarayipkorsanlari.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX PRIME
+https://catcast.ismailturret.workers.dev/fanatikprimeEdStafford.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX POOL
+https://catcast.ismailturret.workers.dev/fanatikmaxdeadpool.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN STAR
 http://65.108.239.207/bsstars/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN TURK
@@ -639,225 +721,19 @@ http://65.108.239.207/bsaction1/index.m3u8
 http://65.108.239.207/bscomedy/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id""                        tvg-logo=""                                                                                       ,TELEON
 http://teleontvstreams.supersatadmin.workers.dev/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id""                        tvg-logo=""                                                                                       ,EURO 90 CH
-http://euro90ch.streams-supersatforum.workers.dev/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id""                        tvg-logo=""                                                                                       ,1 ON SİNEMA
 http://maxtvaksiyonfhd.streams-supersatforum.workers.dev/index.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id""                        tvg-logo=""                                                                                       ,KORKU FILMLERI
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Korku_Filmleri_Tv.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/Gulsahfilm.jpeg"                   ,KEMAL SUNAL TV
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Kemal_Sunal_Tv.m3u8
 #EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,KEMAL SUNAL TV 1
 https://catcast.ismailturret.workers.dev/ksunal.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,KEMAL SUNAL TV 2
-https://catcast.ismailturret.workers.dev/playertest.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,KEMAL SUNAL TV 3
-https://catcast.ismailturret.workers.dev/playerkomedi-kemalsunal.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,KEMAL SUNAL TV 4
-https://catcast.ismailturret.workers.dev/playerkomedi-kemalsunal 3.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SENER SEN
-https://catcast.ismailturret.workers.dev/playertrk-eneren.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,HABABAM TV
-https://catcast.ismailturret.workers.dev/hababam.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 1
-http://cineplus-yesilcam.supersatadmin.workers.dev/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 2
-http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 3
-https://catcast.ismailturret.workers.dev/fanatikmaxyesilcam.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                        tvg-logo=""                                                                                      ,YESILCAM 4
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yesilcam_Tv.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 5
-https://catcast.ismailturret.workers.dev/by-kerimoff-yesilcam.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 6
-https://catcast.ismailturret.workers.dev/playerfilm turkiye.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI NOSTALJI
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI CENNET MAHALLESI
-https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI CENNET MAHALLESI
-https://catcast.ismailturret.workers.dev/playerkomedi-cennetmahallesi.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI CENNET MAHALLESI
-https://catcast.ismailturret.workers.dev/playerkomedi-cennetmahallesi2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI AVRUPA YAKASI
-https://catcast.ismailturret.workers.dev/fanatikprimeavrupayakasi.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI ESREF TEK
-https://catcast.ismailturret.workers.dev/fanatikprimeesreftek.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI KARDES PAYI
 https://catcast.ismailturret.workers.dev/fanatikprimekardespayi.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI KURTLAR VADISI
-https://catcast.ismailturret.workers.dev/fanatikprimekurtlarvadisi.m3u8
 #EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI EN SON BABALAR 
 https://catcast.ismailturret.workers.dev/fanatikprimeensonbabalarduyar.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI BIZIMKILER
-https://catcast.ismailturret.workers.dev/fanatikprimebizimkiler.m3u8
 #EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,NOX TV
 https://catcast.ismailturret.workers.dev/noxtv.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX DAG
-https://catcast.ismailturret.workers.dev/fanatikmaxdag.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX KORKU
-https://catcast.ismailturret.workers.dev/fanatikmaxkorku.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                       ,MAX KARAYIP KORSANLARI
-https://catcast.ismailturret.workers.dev/fanatikmaxboxkarayipkorsanlari.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX PRIME
-https://catcast.ismailturret.workers.dev/fanatikprimeEdStafford.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX POOL
-https://catcast.ismailturret.workers.dev/fanatikmaxdeadpool.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX BLADE
-https://catcast.ismailturret.workers.dev/fanatikmaxblade.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON CINEMA
-https://catcast.ismailturret.workers.dev/playercınema.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON COMEDY
-https://catcast.ismailturret.workers.dev/playerkomedi-деревнядураков.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON COMEDY 1
-https://catcast.ismailturret.workers.dev/playerkomedi-bueherde.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON COMEDY 2
-https://catcast.ismailturret.workers.dev/playerkomedi-bueherde2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON COMEDY 3
-https://catcast.ismailturret.workers.dev/playerkomedi-bozbashpictures1.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON COMEDY 4
-https://catcast.ismailturret.workers.dev/playerkomedi-bozbashpikcher.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON PLAYER
-https://catcast.ismailturret.workers.dev/playerwwe.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON ACTION 1
-https://catcast.ismailturret.workers.dev/playerkanal.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON ACTION 2
-https://catcast.ismailturret.workers.dev/playercinema-acsion2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON ACTION 3
-https://catcast.ismailturret.workers.dev/playercinema-action3.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON ACTION 4
-https://catcast.ismailturret.workers.dev/playercinema-acsion4.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON ACTION 5
-https://catcast.ismailturret.workers.dev/playercinema-action5.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON ACTION 6
-https://catcast.ismailturret.workers.dev/playercnema-action6.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON VATAN 1
-https://catcast.ismailturret.workers.dev/playerfilm-vetenolu.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON VATAN 2
-https://catcast.ismailturret.workers.dev/player-vetenolu.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON KONTINENTAL
-https://catcast.ismailturret.workers.dev/playercinema-kontinental.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON FANTASTIK
-https://catcast.ismailturret.workers.dev/playercinema-fantastika.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON SQUID 1
-https://catcast.ismailturret.workers.dev/playercinema-squidgame1.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON SQUID 1
-https://catcast.ismailturret.workers.dev/playercinema-squidgame 2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON SQUID 1
-https://catcast.ismailturret.workers.dev/playercinema-squidgame3.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON ALICE 1
-https://catcast.ismailturret.workers.dev/playercinema-alice1.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON ALICE 2
-https://catcast.ismailturret.workers.dev/playercinema-alice2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON ALICE 3
-https://catcast.ismailturret.workers.dev/playercinema-alice3.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON BANDERAS
-https://catcast.ismailturret.workers.dev/playercinema-antoniobanderas.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON BRUCE LEE
-https://catcast.ismailturret.workers.dev/playercinema-bruslee.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON BRENDON LEE
-https://catcast.ismailturret.workers.dev/playercinema-brendonlee.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON JACKE CHAN
-https://catcast.ismailturret.workers.dev/playercinema-jackechan.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON STATHAM 1
-https://catcast.ismailturret.workers.dev/playercinema-jasonstatham.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON STATHAM 2
-https://catcast.ismailturret.workers.dev/playercinema-jackechan2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON JET LEE
-https://catcast.ismailturret.workers.dev/playercinema-jetlee.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON JOHN WICK
-https://catcast.ismailturret.workers.dev/playercinema-johnwickhd.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON VAN DAMME 1
-https://catcast.ismailturret.workers.dev/playercinema-vandamme.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON VAN DAMME 2
-https://catcast.ismailturret.workers.dev/playercinema-vandamme2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON SEGAL 1
-https://catcast.ismailturret.workers.dev/playercinema-stivensegal1.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON SEGAL 2
-https://catcast.ismailturret.workers.dev/playercinema-stivensegal2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON OLUM YARISLARI
-https://catcast.ismailturret.workers.dev/playercinema-olumyarisi.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON RAMBO
-https://catcast.ismailturret.workers.dev/playercinema-rambo.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON ROCKY
-https://catcast.ismailturret.workers.dev/playercinema-rocky.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON TERMINATOR
-https://catcast.ismailturret.workers.dev/playercinema-terminator.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON TRANSFORMERS 1
-https://catcast.ismailturret.workers.dev/playercinema-transformer1.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON TRANSFORMERS 2
-https://catcast.ismailturret.workers.dev/playercinema-transformer2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON MATRIX
-https://catcast.ismailturret.workers.dev/playercinema-matrix.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON FORSAJ 1
-https://catcast.ismailturret.workers.dev/playercinema-forsaj1.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON FORSAJ 2
-https://catcast.ismailturret.workers.dev/playercinema-forsaj2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON BATMAN
-https://catcast.ismailturret.workers.dev/playercinema-batman.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON IP MAN
-https://catcast.ismailturret.workers.dev/playercinema-ipman.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON BOYKA
-https://catcast.ismailturret.workers.dev/playercinema-BOYKA.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON ORUMCEK ADAM
-https://catcast.ismailturret.workers.dev/playercinema-horumcekadam.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON GODZILLA
-https://catcast.ismailturret.workers.dev/playercinema-godzilla 1.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON MORTAL COMBAT
-https://catcast.ismailturret.workers.dev/playercinema-mortalcombat.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON YIRTICI 1
-https://catcast.ismailturret.workers.dev/playercnema-yirtici.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON YIRTICI 2
-https://catcast.ismailturret.workers.dev/playercnema-yirtici2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON MAYMUNLAR
-https://catcast.ismailturret.workers.dev/playercinema-maymunlar.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON CEHENNEM MELEKLERI
-https://catcast.ismailturret.workers.dev/playercinemacehennemmelekleri.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON MARVEL
-https://catcast.ismailturret.workers.dev/playercinema-marvel.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON MARVEL 1
-https://catcast.ismailturret.workers.dev/playercinema-marvel2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON MARVEL 2
-https://catcast.ismailturret.workers.dev/playercinema-marvel3.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON MARVEL 3
-https://catcast.ismailturret.workers.dev/playercnema-marvel4.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON MARVEL 4
-https://catcast.ismailturret.workers.dev/playercnema-marvel5.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON MARVEL 5
-https://catcast.ismailturret.workers.dev/playercnema-marvel6.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON PREMIUM 1
-https://catcast.ismailturret.workers.dev/playercinema-premium 1.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON PREMIUM 2
-https://catcast.ismailturret.workers.dev/playercinema-premium2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON PREMIUM 3
-https://catcast.ismailturret.workers.dev/playercinema-premium3.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON PREMIUM 4
-https://catcast.ismailturret.workers.dev/playercinema-premium4.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON PREMIUM 5
-https://catcast.ismailturret.workers.dev/playercinema-premium5.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON PREMIUM 6
-https://catcast.ismailturret.workers.dev/playercinema_premium-6.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON UNIVERSAL
-https://catcast.ismailturret.workers.dev/playercinema-universal-esger.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON HIND 
-https://catcast.ismailturret.workers.dev/playercinema-hindfilmleri.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON HIND 1
-https://catcast.ismailturret.workers.dev/playercinema-hind_filmleri-2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON HIND 2
-https://catcast.ismailturret.workers.dev/playercinema-hind_filmleri-3.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON HIND 3
-https://catcast.ismailturret.workers.dev/playercinema-hind_filmleri-4.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON HIND 4
-https://catcast.ismailturret.workers.dev/playercinema-hind_filmleri-5.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON HIND 5
-https://catcast.ismailturret.workers.dev/playercinema-hind_filmleri-6.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON HIND 6
-https://catcast.ismailturret.workers.dev/playercinema-bollywood.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON HIND 7
-https://catcast.ismailturret.workers.dev/playercnema-bollywood2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON HIND 
-https://catcast.ismailturret.workers.dev/playerhind-music.m3u8
+
+
 #EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,CINEMASTER
 https://catcast.ismailturret.workers.dev/cinemaster.m3u8
 #EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,CINEMASTER 2
@@ -1186,6 +1062,7 @@ https://edge1.socialsmart.tv/kent77/bant1/playlist.m3u8
 https://edge1.socialsmart.tv/altastv/bant1/chunks.m3u8
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Line TV
 https://edge1.socialsmart.tv/linetv/bant1/chunks.m3u8
+https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Çay TV
 https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                        ,METROPOL TV
@@ -2208,6 +2085,8 @@ http://116.202.238.88/STARTV_TR/index.m3u8
 http://tv.smartglwiz.workers.dev/?ID=StarTV_HD.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id="Start.tr"               tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/STARTV.png"                        ,STAR TV
 https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/startv/startv_720p.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id="Start.tr"               tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/STARTV.png"                        ,STAR TV
+https://dogus.daioncdn.net/startv/startv.m3u8?ce=&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id="EuroSTAR.tr"            tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/euro-star.png"                     ,EUROSTAR
 http://tv.smartglwiz.workers.dev/?ID=EuroStar_HD.m3u8
@@ -2247,6 +2126,8 @@ http://tv.smartglwiz.workers.dev/?ID=DMax_HD.m3u8
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/kral-pop-tv.png"                   ,KRAL POP
 https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/kral-pop-tv.png"                   ,KRAL POP
+https://dogusdyg-kralpoptv.lg.mncdn.com/dogusdyg_kralpoptv/dogusdyg_kralpoptv.smil/chunklist_b496000.m3u8?st=Cfqixyi6CWx4zV3eB5k88g&e=1781992844
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id="TV8.tr"                 tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TV8.png"                           ,TV 8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
@@ -3634,6 +3515,8 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="aljazeera.com"         tvg-logo="https://picserve.netplus.ch/channels/aljazeera.png"            ,AlJazeera En HD
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                               ,FOX NEWS
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 
 
