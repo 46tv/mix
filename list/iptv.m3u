@@ -53,26 +53,6 @@ http://umperisn.mywire.org/index.php?id=594640&token=DeaTHLesS
 http://bizimevtvhd.streams-supersatforum.workers.dev/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,HABITAT TV
 http://umperisn.mywire.org/index.php?id=594650&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,ID	
-http://umperisn.mywire.org/index.php?id=594672&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,TARIH TV
-http://umperisn.mywire.org/index.php?id=594663&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="Discovery.tr"           tvg-logo=""                                                                                       ,DISCOVERY
-http://umperisn.mywire.org/index.php?id=594674&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,VIASAT EXPLORE
-http://umperisn.mywire.org/index.php?id=594656&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="History.tr"             tvg-logo=""                                                                                       ,VIASAT HISTORY
-http://umperisn.mywire.org/index.php?id=594658&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="BBCEarth.tr"            tvg-logo=""                                                                                       ,BBC EARTH
-http://umperisn.mywire.org/index.php?id=594660&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="NATGEOGRAPHIC.tr"       tvg-logo=""                                                                                       ,NAT GEO
-http://umperisn.mywire.org/index.php?id=594676&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="NatGeoWild.tr"          tvg-logo=""                                                                                       ,NAT GEO WILD
-http://umperisn.mywire.org/index.php?id=594678&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,BEIN IZ
-http://umperisn.mywire.org/index.php?id=594654&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,BEIN GURME
-http://umperisn.mywire.org/index.php?id=594652&token=DeaTHLesS
 #####################################################################################################################################################################################################
 #######  AVRUPA YAYINLARI  ##########################################################################################################################################################################
 #####################################################################################################################################################################################################
@@ -118,12 +98,6 @@ https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/m
 http://umperisn.mywire.org/index.php?id=591437&token=DeaTHLesS
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,EURO 90 CH
 http://euro90ch.streams-supersatforum.workers.dev/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,HABABAM TV
-https://catcast.ismailturret.workers.dev/hababam.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 1
-http://cineplus-yesilcam.supersatadmin.workers.dev/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 3
-https://catcast.ismailturret.workers.dev/fanatikmaxyesilcam.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI ZALIM ISTANBUL
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI TATLI INTIKAM
@@ -134,26 +108,6 @@ https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playl
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI CENNET MAHALLESI
 https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI AVRUPA YAKASI
-https://catcast.ismailturret.workers.dev/fanatikprimeavrupayakasi.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI ESREF TEK
-https://catcast.ismailturret.workers.dev/fanatikprimeesreftek.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI KURTLAR VADISI
-https://catcast.ismailturret.workers.dev/fanatikprimekurtlarvadisi.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI BIZIMKILER
-https://catcast.ismailturret.workers.dev/fanatikprimebizimkiler.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX DAG
-https://catcast.ismailturret.workers.dev/fanatikmaxdag.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX KORKU
-https://catcast.ismailturret.workers.dev/fanatikmaxkorku.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX KARAYIP KORSANLARI
-https://catcast.ismailturret.workers.dev/fanatikmaxboxkarayipkorsanlari.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX PRIME
-https://catcast.ismailturret.workers.dev/fanatikprimeEdStafford.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX POOL
-https://catcast.ismailturret.workers.dev/fanatikmaxdeadpool.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,TURKUZPLAY
-https://github.com/UzunMuhalefet/streams/raw/main/catcast/turkuzplay1.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-300x109.png"                                     ,SDM FILM TV
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,RIZE TURK
@@ -201,8 +155,7 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 https://edge1.socialsmart.tv/neohaber/bant1/chunks.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/UUSALTV.png"                       ,ULUSAL KANAL
 http://umperisn.mywire.org/index.php?id=594214&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"gzttv.tr"                tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/turkishpress.png"                  ,TURKISH PRESS
-https://live.euromediacenter.com/turkishpress/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"gzttv.tr"                tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/telenews.png"                      ,TELE NEWS
 https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/EKOTURK.png"                       ,EKOTURK
@@ -236,8 +189,6 @@ https://tv.ensonhaber.com/bloomberght/bloomberght_720p.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"beinsporthaber.tr"       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/BEINSPORTHABER.png"                ,BEINSPOR HBR
 https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id"beinsporthaber.tr"       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/BEINSPORTHABER.png"                ,BEINSPOR 1
-https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4194.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="TRTspor.tr"             tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/trtspor.png"                       ,TRT SPOR
 https://api.hitnova.net/s/trtspor/mono.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="TRTspor.tr"             tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/trtspor.png"                       ,TRT SPOR 2
@@ -264,79 +215,10 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Tjk_Tv.m3u8?t=
 http://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN SPORT DIRECK
 https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4194.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,EUROSPORT 1
-https://api.hitnova.net/s/eu1/mono.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,EUROSPORT 2
-https://api.hitnova.net/s/eu2/mono.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,SMART SPOR 1
-https://api.hitnova.net/s/smarts/mono.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,SMART SPOR 2
-https://api.hitnova.net/s/sms2/mono.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,SSPORT 1
-https://api.hitnova.net/s/ss/mono.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,SSPORT 2
-https://api.hitnova.net/s/ss2/mono.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,TIVIBU SPOR 1
-#https://api.hitnova.net/s/t1/mono.m3u8
-http://65.108.239.207/t1/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,TIVIBU SPOR 2
-#https://api.hitnova.net/s/t2/mono.m3u8
-http://65.108.239.207/t2/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,TIVIBU SPOR 3
-#https://api.hitnova.net/s/t3/mono.m3u8
-http://65.108.239.207/t3/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,TIVIBU SPOR 4
-#https://api.hitnova.net/s/t4/mono.m3u8
-http://65.108.239.207/t4/index.m3u8
-
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/sifirtv.png"                       ,SIFIR TV
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,SPORTS TV
 http://tv.smartglwiz.workers.dev/?ID=SportsTV_HD.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,beIN Spor
-https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,Tivibu Spor
-https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
-
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,Bein Sports
-https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://biraz.7486038.xyz/checklist/androstreamlivebiraz1.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,Web BeIN Sports+++
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,test2 Spor Kanalı
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,test1 Spor Kanalı
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://site-adresi.com/
-#EXTVLCOPT:http-origin=https://site-adresi.com
-https://api.codetabs.com/v1/proxy/?quest=https://yayin-linki.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,VPN BeIN Sports++
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,VPN BeIN Sport 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-origin=https://bilyonersport1.com
-#EXTVLCOPT:http-referrer=https://bilyonersport1.com/
-https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,VPN VARSPORTS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-origin=https://cdn.datapack.xyz
-#EXTVLCOPT:http-referrer=https://cdn.datapack.xyz/
-http://izipizi1.info:80/live/ItcElekt90dnzR/ItcElekt90dftjc/39895.m3u8
-
 
 
 #####################################################################################################################################################################################################
@@ -360,38 +242,6 @@ https://65.108.239.207/cartoonnetwork/index.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/1.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,COCUK OZEL 
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cocuklara-ozel-tv/playlist/0.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,TON & JERRY
-https://catcast.ismailturret.workers.dev/tomandjerry.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,TON & JERRY
-https://catcast.ismailturret.workers.dev/playercizgifilm-tomvejerry.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,TON & JERRY
-https://catcast.ismailturret.workers.dev/fanatikkidstomjerry.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SEVIMLILER
-https://catcast.ismailturret.workers.dev/playercizgifilm-sevmller.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MASA VE AYI
-https://catcast.ismailturret.workers.dev/playerczgflm-maaveay.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,ARABALAR
-https://catcast.ismailturret.workers.dev/playercizgifilm-maşınlar.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MADAGASKAR
-https://catcast.ismailturret.workers.dev/playercizgifilm-madagascar.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,EJDERHA
-https://catcast.ismailturret.workers.dev/playercizgifilm-rekejdaha.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,PANDA 
-https://catcast.ismailturret.workers.dev/playercizgifilm-panda1.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,PANDA 2
-https://catcast.ismailturret.workers.dev/playercizgifilm-panda2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,BUZ DEVRI
-https://catcast.ismailturret.workers.dev/playercizgifilm_buz-devri.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,BERNARD
-https://catcast.ismailturret.workers.dev/playercizgifilm_bernard.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX SARKILAR
-https://catcast.ismailturret.workers.dev/fanatikkidsarkilar.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX CAILLOU
-https://catcast.ismailturret.workers.dev/fanatikkidscaillou.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX PEPEE
-https://catcast.ismailturret.workers.dev/fanatikkidspepee.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,BALACAN
-https://catcast.ismailturret.workers.dev/balacan-tv-diginet.m3u8
 #####################################################################################################################################################################################################
 #######  MUZIK             ##########################################################################################################################################################################
 #####################################################################################################################################################################################################
@@ -431,16 +281,6 @@ http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo="#https://media.finest.tv/dash/live.mpd"                                                 ,FINEST TV
 https://media.finest.tv/hls/live.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX NESET ERTAS
-https://catcast.ismailturret.workers.dev/fanatikmusicnesetertas.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX MUSIC NOSTALJI
-https://catcast.ismailturret.workers.dev/fanatikmusicnostalji.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX ROJDA
-https://catcast.ismailturret.workers.dev/fanatikmusicrojda.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="MuzikTV.tr"             tvg-logo=""                                     tvg-url="https://www.turkuvapp.com/"              ,Müzik TV
-https://streams.uzunmuhalefet.com/stream/ba3f9a6d-85a8-4100-b716-95b98a2a3ab3.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="ChillTV.tr"             tvg-logo=""                                     tvg-url="https://www.turkuvapp.com/"              ,Chill TV
-https://streams.uzunmuhalefet.com/stream/7cded060-e914-4c19-9adc-ba95c80e3697.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,Arabesk TV
 https://yayin.santraltr.com/hls/arabeskyeni.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,Arma
@@ -499,28 +339,6 @@ https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=kralpoptv_web
 https://cdn4.yayin.com.tr/karadeniztv/video.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MILYON TV	
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MTV CLASSIC
-https://catcast.ismailturret.workers.dev/mtv-classic.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,BEST HITS
-https://catcast.ismailturret.workers.dev/best-hits.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,FRESH HITS
-https://catcast.ismailturret.workers.dev/fresh-hits.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,RIHAT TV
-https://catcast.ismailturret.workers.dev/rihattv.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,ULDUZ TV
-https://catcast.ismailturret.workers.dev/ulduz-tv.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,ALVIN MUSIC
-https://catcast.ismailturret.workers.dev/alvinmusic.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,VIVA
-https://catcast.ismailturret.workers.dev/viva-tvrussia.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,BAYZAN HITS
-https://catcast.ismailturret.workers.dev/bayzan-hits.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DANCE HITS
-https://catcast.ismailturret.workers.dev/dancehits80.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MUSICMAX
-https://catcast.ismailturret.workers.dev/musicmax.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,BEST HITS
-https://catcast.ismailturret.workers.dev/best-hits.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MIX TV
@@ -571,6 +389,7 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/live_hq.m3u8
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/live_hq.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,OCKO EXPRES
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/live_hq.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png"        ,DLX Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png"        ,DLX DANCE
@@ -681,69 +500,7 @@ https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playl
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI CENNET MAHALLESI
 https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI AVRUPA YAKASI
-https://catcast.ismailturret.workers.dev/fanatikprimeavrupayakasi.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI ESREF TEK
-https://catcast.ismailturret.workers.dev/fanatikprimeesreftek.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI KURTLAR VADISI
-https://catcast.ismailturret.workers.dev/fanatikprimekurtlarvadisi.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI BIZIMKILER
-https://catcast.ismailturret.workers.dev/fanatikprimebizimkiler.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX DAG
-https://catcast.ismailturret.workers.dev/fanatikmaxdag.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX KORKU
-https://catcast.ismailturret.workers.dev/fanatikmaxkorku.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                       ,MAX KARAYIP KORSANLARI
-https://catcast.ismailturret.workers.dev/fanatikmaxboxkarayipkorsanlari.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX PRIME
-https://catcast.ismailturret.workers.dev/fanatikprimeEdStafford.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MAX POOL
-https://catcast.ismailturret.workers.dev/fanatikmaxdeadpool.m3u8
 
-
-
-
-
-
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN STAR
-http://65.108.239.207/bsstars/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN TURK
-http://65.108.239.207/bsturk/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN BOX 1
-http://65.108.239.207/box1/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN BOX 2
-http://65.108.239.207/box2/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN BOX 3
-http://65.108.239.207/box3/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN ACTION
-http://65.108.239.207/bsaction1/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id""                        tvg-logo=""                                                                                       ,SINEMA COMEDY
-http://65.108.239.207/bscomedy/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id""                        tvg-logo=""                                                                                       ,TELEON
-http://teleontvstreams.supersatadmin.workers.dev/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id""                        tvg-logo=""                                                                                       ,1 ON SİNEMA
-http://maxtvaksiyonfhd.streams-supersatforum.workers.dev/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,KEMAL SUNAL TV 1
-https://catcast.ismailturret.workers.dev/ksunal.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI KARDES PAYI
-https://catcast.ismailturret.workers.dev/fanatikprimekardespayi.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI EN SON BABALAR 
-https://catcast.ismailturret.workers.dev/fanatikprimeensonbabalarduyar.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,NOX TV
-https://catcast.ismailturret.workers.dev/noxtv.m3u8
-
-
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,CINEMASTER
-https://catcast.ismailturret.workers.dev/cinemaster.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,CINEMASTER 2
-https://catcast.ismailturret.workers.dev/cinemaster2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,HORROR CH
-https://catcast.ismailturret.workers.dev/horrorchannel.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,RETRO TV
-https://catcast.ismailturret.workers.dev/retrotv.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MONGO TV
-https://catcast.ismailturret.workers.dev/mangotv.m3u8
 #####################################################################################################################################################################################################
 #######  YEREL             ##########################################################################################################################################################################
 #####################################################################################################################################################################################################
@@ -756,7 +513,7 @@ https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?autoplay=1
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,MMN TV
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist_w1571985729.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"   tvg-id="kanal19.tr"             tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/kanal-19.png"                      ,KANAL 19	
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"   tvg-id="kanal19.tr"             tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/kanal-19.png"                       ,KANAL 19	
 https://live.euromediacenter.com/kanal19/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/lifetv.png"                        ,LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
@@ -2453,59 +2210,6 @@ http://85.132.53.162:1935/live/eltv/playlist.m3u8
 http://85.132.78.122:8050/hls/stream/index.m3u8
 
 
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AZ SALON 01
-https://catcast.ismailturret.workers.dev/playerkomedi-azfilm.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AZ SALON 02
-https://catcast.ismailturret.workers.dev/playercinema-azerbaycanfilm.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AZ SALON 03
-https://catcast.ismailturret.workers.dev/playerfilm-azerbaycan.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AZ SALON 04
-https://catcast.ismailturret.workers.dev/playerfilm-azerbaycan-2.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AZ SALON 05
-https://catcast.ismailturret.workers.dev/playercinema-aze_dublyaj-1.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AZ SALON 06
-https://catcast.ismailturret.workers.dev/playercinema-aze_dublaj-2.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AZ SALON 07
-https://catcast.ismailturret.workers.dev/playercinema-aze_dublaj-3.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AZ SALON 08
-https://catcast.ismailturret.workers.dev/playercinema-aze_dublaj-4.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AZ SALON 09
-https://catcast.ismailturret.workers.dev/playercinema-aze_dublaj-5.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AZ SALON 10
-https://catcast.ismailturret.workers.dev/playercinema-aze_dublaj-6.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AZ SALON 11
-https://catcast.ismailturret.workers.dev/playercinema-aze_dublaj-7.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AZ SALON 12
-https://catcast.ismailturret.workers.dev/playercinema-aze_dublaj-8.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AZ SALON 13
-https://catcast.ismailturret.workers.dev/playercinema-aze_dublaj-9.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AZ SALON 14
-https://catcast.ismailturret.workers.dev/playercinema-aze_dublaj-10.m3u8
-
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,BAYZAN HITS
-https://catcast.ismailturret.workers.dev/bayzan-hits.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ULDUZ TV
-https://catcast.ismailturret.workers.dev/ulduz-tv.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,BAYZAN MUSIK
-https://catcast.ismailturret.workers.dev/bayzan-music.m3u8
-
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,PLAYER MUSIC AZ
-https://catcast.ismailturret.workers.dev/playermusic aze.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GENC MUSIC AZ
-https://catcast.ismailturret.workers.dev/playergencmusic-az.m3u8
-
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,PLAYER MUSIC
-https://catcast.ismailturret.workers.dev/playermusic.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ZEWK MUZIK
-https://catcast.ismailturret.workers.dev/playerzevqmusic.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MEYHANE HAVASI
-https://catcast.ismailturret.workers.dev/playermeyxana-tv.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ROMAN HAVASI
-https://catcast.ismailturret.workers.dev/playerkomedi-romanhavasi.m3u8
-#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TOY MAHNILARI
-https://catcast.ismailturret.workers.dev/playertoy-mahnlar.m3u8
-
-
 
 #EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Usbekistan 
 https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
@@ -2725,91 +2429,62 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="rtl.de"                 tvg-logo="https://picserve.netplus.ch/channels/rtl.png"                 ,RTL
-#https://ma.anixa.tv/clips/stream/rtl/index.m3u8
-https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+https://ma.anixa.tv/clips/stream/rtl/index.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="rtl2.de"                tvg-logo="https://picserve.netplus.ch/channels/rtl2.png"                ,RTL ZWEI
-https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+h      8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="rtlnitro.de"            tvg-logo="https://picserve.netplus.ch/channels/rtlnitro.png"            ,RTL nitro
-https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
+h      8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="vox.de"                 tvg-logo="https://picserve.netplus.ch/channels/vox.png"                 ,VOX
-https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
+h      8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="pro7.de"                tvg-logo="https://picserve.netplus.ch/channels/pro7.png"                ,ProSieben HD
-#EXTREM https://viamotionhsi.netplus.ch/live/eds/pro7/browser-HLS8/pro7.m3u8
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="prosiebenmaxx.de" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png"              ,PRO 7 MAXX
-https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
+h      8
 
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="sat1.de"                tvg-logo="https://picserve.netplus.ch/channels/sat1.png"                ,SAT.1 HD
-#EXTREM https://viamotionhsi.netplus.ch/live/eds/sateins/browser-HLS8/sateins.m3u8
 https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
+
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="sat1gold.de"            tvg-logo="https://picserve.netplus.ch/channels/sat1gold.png"            ,SAT.1 GOLD
-#EXTREM https://viamotionhsi.netplus.ch/live/eds/sat1gold/browser-HLS8/sat1gold.m3u8
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="tele5.de"               tvg-logo="https://picserve.netplus.ch/channels/tele5.png"               ,tele5
-#https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
-https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8
+h      8
 
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="sixx.de"                tvg-logo="https://picserve.netplus.ch/channels/sixx.png"                ,sixx HD
-#EXTREM https://viamotionhsi.netplus.ch/live/eds/sixx/browser-HLS8/sixx.m3u8
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="kabel1.de"              tvg-logo="https://picserve.netplus.ch/channels/kabel1.png"              ,Kabel eins HD
-#EXTREM https://viamotionhsi.netplus.ch/live/eds/kabeleins/browser-HLS8/kabeleins.m3u8
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="kabeleinsdocu.de"       tvg-logo="https://picserve.netplus.ch/channels/kabeleinsdocu.png"       ,Kabel eins DOKU
-https://viamotionhsi.netplus.ch/live/eds/kabel1doku/browser-HLS8/kabel1doku.m3u8
+h      8
+
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="dmax.de"                tvg-logo="https://picserve.netplus.ch/channels/dmax.png"                ,DMAX CH
-https://viamotionhsi.netplus.ch/live/eds/dmax/browser-HLS8/dmax.m3u8
-
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="SRFinfo.ch"             tvg-logo="https://picserve.netplus.ch/channels/srfinfo.png"             ,SRF info HD
-https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="SRF1.ch"                tvg-logo="https://picserve.netplus.ch/channels/srf1.png"                ,SRF1 HD
-https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="SRF1.ch"                tvg-logo="https://picserve.netplus.ch/channels/srf2.png"                ,SRF2 HD
-https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
-
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="orf1.at"                tvg-logo="https://picserve.netplus.ch/channels/orf1.png"                ,ORF1 HD
-https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="orf2.at"                tvg-logo="https://picserve.netplus.ch/channels/orf2.png"                ,ORF2 HD
-https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
+h      8
 
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="atv.at"                 tvg-logo="https://i.imgur.com/1pA0Tid.png"                              ,ATV HD
 http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
 
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="atv.at"                 tvg-logo="https://picserve.netplus.ch/channels/atv.png"                 ,ATV 2
-https://viamotionhsi.netplus.ch/live/eds/atv/browser-HLS8/atv.m3u8
+h      8
 
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="kika.de"                tvg-logo="https://picserve.netplus.ch/channels/kika.png"                ,KIKA HD
 https://kika-live.ard-mcdn.de/kika/live/hls/de/master.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="kika.de"                tvg-logo="https://picserve.netplus.ch/channels/kika.png"                ,KIKA HD
-https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="kika.de"                tvg-logo="https://picserve.netplus.ch/channels/kika.png"                ,KIKA HD
 https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
-
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="SuperRTL.de"            tvg-logo="https://download.avm.de/tv/logos/superrtl.png"                ,SUPER RTL
-https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="superrtl.de"            tvg-logo="https://picserve.netplus.ch/channels/superrtl.png"            ,RTL SUPER
-https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="comedycentral.de"       tvg-logo="https://picserve.netplus.ch/channels/comedycentral.png"       ,comedy central HD
-https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="nickelodeon.de"         tvg-logo="https://picserve.netplus.ch/channels/comedycentralnick.png"   ,comedy central+1
-https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="disneychannel.de"       tvg-logo="https://picserve.netplus.ch/channels/disneychannelde.png"     ,Disney Channel D
-https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
 
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="phoenix.de"             tvg-logo="https://download.avm.de/tv/logos/phoenix.png"                 ,Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="tagesschau24.de"        tvg-logo="https://download.avm.de/tv/logos/tagesschau24.png"            ,tagesschau24
 https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="welt.de"                tvg-logo="https://picserve.netplus.ch/channels/n24.png"                 ,WELT
-#https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                             ,BILD 
 https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ntv.de"                 tvg-logo="https://picserve.netplus.ch/channels/ntv.png"                 ,ntv
-#https://viamotionhsi.netplus.ch/live/eds/ntv/browser-dash/ntv.mpd
-https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
+h      8
+
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="russiatoday.de"         tvg-logo=""                                                             ,RT DE
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="russiatoday.de"         tvg-logo=""                                                             ,RT DE
@@ -2821,8 +2496,6 @@ https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
 
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ServusHD.de"            tvg-logo="https://download.avm.de/tv/logos/servus.png"                  ,SERVUS TV
 https://freqsyndlin.servustv.com/771_playlist_1.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="servustv.de"            tvg-logo="https://picserve.netplus.ch/channels/servustvhd.png"          ,Servus TV
-https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                             ,RED BULL TV
 https://freqsyndlin.redbull.com/582/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                             ,WINTERSPORT ON
@@ -2848,34 +2521,14 @@ https://fast.servustv.com/mvg/mts/mts_1080.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                             ,WETTER
 https://streaming.meteonews.net/hls/stream.m3u8
 
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="kanal9.ch"              tvg-logo="https://picserve.netplus.ch/channels/kanal9.png"              ,kanal9 HD
-https://viamotionhsi.netplus.ch/live/eds/kanal9/browser-HLS8/kanal9.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="telebaern.ch"           tvg-logo="https://picserve.netplus.ch/channels/telebaern.png"           ,TeleBärn
-https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="tv24.ch"                tvg-logo="https://picserve.netplus.ch/channels/tv24.png"                ,tv24 HD
-https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="bluezoomde.ch"          tvg-logo="https://picserve.netplus.ch/channels/bluezoomde.png"          ,blue zoom
-https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="telebielingue.ch"       tvg-logo="https://picserve.netplus.ch/channels/telebielingue.png"       ,Tele Bielingue HD
-https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ric.ch"                 tvg-logo="https://picserve.netplus.ch/channels/ric.png"                 ,RiC D
-https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8
-
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="eurosport1.de"          tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png"         ,eurosport 1
-https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="sport1.de"              tvg-logo="https://picserve.netplus.ch/channels/sport1.png"              ,Sport 1
-#https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
 https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
 
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ANIXE.de"               tvg-logo="https://download.avm.de/tv/logos/anixe_hd.png"                ,ANIXE TV
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ANIXE.de"               tvg-logo="https://download.avm.de/tv/logos/anixe_hd.png"                ,ANIXE SERIE
 https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="anixe.de"               tvg-logo="https://picserve.netplus.ch/channels/anixe.png"               ,ANIXE SERIE
-https://viamotionhsi.netplus.ch/live/eds/anixe/browser-HLS8/anixe.m3u8
 
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,STAR TV DE
-https://viamotionhsi.netplus.ch/live/eds/startv/browser-dash/startv.mpd
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,BIBEL TV
 https://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,BIBEL 2 TV
@@ -2933,8 +2586,6 @@ https://ms01.w24.at/W24/smil:liveevent.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,FS1 Salzburg TV
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="deluxmusic.de"          tvg-logo="https://picserve.netplus.ch/channels/deluxemusic.png"         ,DELUXE MUSIC
-https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""   tvg-logo="https://i.imgur.com/E65GQN9.png"                                                   ,DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,DELUXE MUSIC DANCE BY KONTOR
@@ -3485,38 +3136,54 @@ https://xite-germany-lg.amagi.tv/playlist.m3u8
 #######    YABANCI HABER KANALLARI                 ############################################################################################################################
 #####################################################################################################################################################################################################
 
-#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="TRTWorld.tr"           tvg-logo=""                                                              ,TRT World
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id".tr"                    tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/turkishpress.png"                  ,TURKISH PRESS
+https://live.euromediacenter.com/turkishpress/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="TRTWorld.tr"           tvg-logo=""                                                                                       ,TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                               ,a NEWS
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,a NEWS
 http://umperisn.mywire.org/index.php?id=594258&token=DeaTHLesS
-#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                               ,RUSIA TODAY
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,DW 
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,RUSIA TODAY
 https://rumble.com/live-hls/33aw1a/playlist.m3u8
-#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                               ,PRESS TV
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,PRESS TV
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="AfricanewsEnglish.fr"  tvg-logo="https://i.imgur.com/5UxU4zc.png"                               ,Africanews
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="AfricanewsEnglish.fr"  tvg-logo="https://i.imgur.com/5UxU4zc.png"                                                        ,Africanews
 https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8
-#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="Africa24English.fr"    tvg-logo=""                                                              ,Africa 24
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="Africa24English.fr"    tvg-logo=""                                                                                       ,Africa 24
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
-#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                               ,CGTN
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                               ,CGTN Documentary
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                               ,FRANCE NEWS 24
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,FRANCE NEWS 24
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                               ,NEWS WORLD
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,NEWS WORLD
 https://amg01076-amg01076c23-rakuten-it-8815.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworlditaly-rakutenit/playlist.m3u8
-#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="bbcworld.uk"           tvg-logo="https://picserve.netplus.ch/channels/bbcworld.png"             ,BBC NEWS HD
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="bbcworld.uk"           tvg-logo="https://picserve.netplus.ch/channels/bbcworld.png"                                      ,BBC NEWS HD
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="bbcworld.uk"           tvg-logo="https://picserve.netplus.ch/channels/bbcworld.png"             ,BBC NEWS HD
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="bbcworld.uk"           tvg-logo="https://picserve.netplus.ch/channels/bbcworld.png"                                      ,BBC NEWS HD
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="nhkworldjapan.jp"      tvg-logo="https://picserve.netplus.ch/channels/nhk.png"                  ,NHK WORLD JAPAN
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="nhkworldjapan.jp"      tvg-logo="https://picserve.netplus.ch/channels/nhk.png"                                           ,NHK WORLD JAPAN
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="skynews.uk"            tvg-logo="https://picserve.netplus.ch/channels/skynews.png"              ,sky news
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="skynews.uk"            tvg-logo="https://picserve.netplus.ch/channels/skynews.png"                                       ,sky news
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8
-#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="aljazeera.com"         tvg-logo="https://picserve.netplus.ch/channels/aljazeera.png"            ,AlJazeera En HD
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="aljazeera.com"         tvg-logo="https://picserve.netplus.ch/channels/aljazeera.png"                                     ,AlJazeera En HD
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
-#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                               ,FOX NEWS
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="aljazeera.com"         tvg-logo="https://picserve.netplus.ch/channels/aljazeera.png"                                     ,AlJazeera En HD
+https://live-hls-web-aje2-gcp.thehlive.com/AJE2/index.m3u8
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="aljazeera.com"         tvg-logo="https://picserve.netplus.ch/channels/aljazeera.png"                                     ,AlJazeera Ara HD
+https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="aljazeera.com"         tvg-logo="https://picserve.netplus.ch/channels/aljazeera.png"                                     ,AlJazeera Ara HD
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
+
+
+
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,FOX NEWS
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,FOX WETTER
+https://247wlive.foxweather.com/stream/index.m3u8
 
 
 

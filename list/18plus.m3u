@@ -60,6 +60,19 @@ http://cdn.adultiptv.net/young.m3u8
 http://cdn.adultiptv.net/lesbian.m3u8
 #EXTINF:-1 group-title="🔞 | ADULT CH"   tvg-id=""                       tvg-logo="🔞"          ,GAY
 http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="🔞 | ADULT CH"   tvg-id=""                       tvg-logo="🔞"          ,GAY
+http://gohyperspeed.com/live/1012180777/IUI2LzkHvx/500174207.m3u8
+#EXTINF:-1 group-title="🔞 | ADULT CH"   tvg-id=""                       tvg-logo="🔞"          ,PORNO
+http://ru.iptv.monster/play/13021/manifest.m3u8?token=75BA4FC1CA5013E
+#EXTINF:-1 group-title="🔞 | ADULT CH"   tvg-id=""                       tvg-logo="🔞"          ,PORNO
+http://ru.iptv.monster/play/13023/manifest.m3u8?token=75BA4FC1CA5013E
+#EXTINF:-1 group-title="🔞 | ADULT CH"   tvg-id=""                       tvg-logo="🔞"          ,PORNO
+http://ru.iptv.monster/play/1768/manifest.m3u8?token=75BA4FC1CA5013E
+#EXTINF:-1 group-title="🔞 | ADULT CH"   tvg-id=""                       tvg-logo="🔞"          ,PORNO
+http://ru.iptv.monster/play/8074/manifest.m3u8?token=75BA4FC1CA5013E
+
+#EXTINF:-1 group-title="🔞 | ADULT CH"   tvg-id=""                       tvg-logo="🔞"          ,PORNO
+https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/470670
 
 #EXTINF:-1 group-title="🔞 | ADULT CH"   tvg-id=""                       tvg-logo="🔞"          ,FTV Screets  
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
