@@ -527,28 +527,7 @@ https://camiatv-live.ercdn.net/camiatv/camiatv.m3u8
 #####################################################################################################################################################################################################
 #######  DIZI & FILM       ##########################################################################################################################################################################
 #####################################################################################################################################################################################################
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,FILM SCREEN INT
-https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,EPIC DRAMA
-http://umperisn.mywire.org/index.php?id=591437&token=DeaTHLesS
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id""                        tvg-logo=""                                                                                       ,EURO 90 CH
-http://euro90ch.streams-supersatforum.workers.dev/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,HABABAM TV
-https://catcast.ismailturret.workers.dev/hababam.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 1
-http://cineplus-yesilcam.supersatadmin.workers.dev/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 3
-https://catcast.ismailturret.workers.dev/fanatikmaxyesilcam.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI ZALIM ISTANBUL
-https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI TATLI INTIKAM
-https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI SIYAH BEYAZ ASK
-https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI NOSTALJI
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 group-title="🇹🇷 | CINEMA CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI CENNET MAHALLESI
-https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
+
 
 
 
@@ -3224,12 +3203,20 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="nhkworldjapan.jp"      tvg-logo="https://picserve.netplus.ch/channels/nhk.png"                                           ,NHK WORLD JAPAN
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="skynews.uk"            tvg-logo="https://picserve.netplus.ch/channels/skynews.png"                                       ,sky news
-https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="aljazeera.com"         tvg-logo="https://picserve.netplus.ch/channels/aljazeera.png"                                     ,AlJazeera En HD
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="skynews.uk"            tvg-logo="https://picserve.netplus.ch/channels/skynews.png"                                       ,sky news
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8
+
+
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,FOX NEWS
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,FOX NEWS
+https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,FOX WETTER
+https://content.uplynk.com/db88cebb80ea46269a1b2691871f3660.m3u8
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,FOX SPORT
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 
 
 
