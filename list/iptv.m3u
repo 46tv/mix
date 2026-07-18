@@ -98,6 +98,8 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,EPIC DRAMA
 http://umperisn.mywire.org/index.php?id=591437&token=DeaTHLesS
+
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,HABABAM TV
 https://catcast.ismailturret.workers.dev/hababam.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 1
@@ -112,10 +114,16 @@ https://catcast.ismailturret.workers.dev/playertest.m3u8
 https://catcast.ismailturret.workers.dev/playerkomedi-kemalsunal 3.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 6
 https://catcast.ismailturret.workers.dev/playertrk-eneren.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 7
+https://catcast.ismailturret.workers.dev/ksunal.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 8
+https://catcast.ismailturret.workers.dev/playerfilm turkiye.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON 1
 https://catcast.ismailturret.workers.dev/playercinema-jackechan.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,SALON 2
 https://catcast.ismailturret.workers.dev/playercinema-jackechan2.m3u8
+
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,EURO 90 CH
 http://euro90ch.streams-supersatforum.workers.dev/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI ZALIM ISTANBUL
@@ -124,6 +132,8 @@ https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playli
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI SIYAH BEYAZ ASK
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                                                                                                                         ,DIZI Merhaba Türkische Serien
+https://jmp2.uk/plu-6864e8f264d94c1425fb4563.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI NOSTALJI
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI CENNET MAHALLESI
@@ -237,6 +247,8 @@ http://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,SPORTS TV
 http://tv.smartglwiz.workers.dev/?ID=SportsTV_HD.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN SPORT
+https://one.caec6083d6b01cf5.click/live/sbeinsports-1/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN SPORT DIRECK
 https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4194.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN SPORT XTRA
@@ -527,6 +539,296 @@ https://camiatv-live.ercdn.net/camiatv/camiatv.m3u8
 #####################################################################################################################################################################################################
 #######  DIZI & FILM       ##########################################################################################################################################################################
 #####################################################################################################################################################################################################
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,NESET ERTAS
+https://catcast.ismailturret.workers.dev/fanatikmusicnesetertas.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,KIDS PEPEE
+https://catcast.ismailturret.workers.dev/fanatikkidspepee.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,MAX DAG
+https://catcast.ismailturret.workers.dev/fanatikmaxdag.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,MAX KORKU
+https://catcast.ismailturret.workers.dev/fanatikmaxkorku.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,KURTLAR VADISI
+https://catcast.ismailturret.workers.dev/fanatikprimekurtlarvadisi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,KARAYIP KORSANLARI
+https://catcast.ismailturret.workers.dev/fanatikmaxboxkarayipkorsanlari.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,ESREF TEK
+https://catcast.ismailturret.workers.dev/fanatikprimeesreftek.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,ED STAFFORD
+https://catcast.ismailturret.workers.dev/fanatikprimeEdStafford.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,YESILCAM
+https://catcast.ismailturret.workers.dev/fanatikmaxyesilcam.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,AVRUPA YAKASI
+https://catcast.ismailturret.workers.dev/fanatikprimeavrupayakasi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,NOSTALJI MUZIK
+https://catcast.ismailturret.workers.dev/fanatikmusicnostalji.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,DEADPOOL
+https://catcast.ismailturret.workers.dev/fanatikmaxdeadpool.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,COCUK SARKILARI
+https://catcast.ismailturret.workers.dev/fanatikkidsarkilar.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,MUZIK ROJDA
+https://catcast.ismailturret.workers.dev/fanatikmusicrojda.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,TOM UND JERRY
+https://catcast.ismailturret.workers.dev/fanatikkidstomjerry.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,KARDES PAYI
+https://catcast.ismailturret.workers.dev/fanatikprimekardespayi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,EN SON BABALAR DUYAR
+https://catcast.ismailturret.workers.dev/fanatikprimeensonbabalarduyar.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,?*****
+https://catcast.ismailturret.workers.dev/fanatikpornaltyazi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,KIDS CAILLOU
+https://catcast.ismailturret.workers.dev/fanatikkidscaillou.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,BIZIMKiLER
+https://catcast.ismailturret.workers.dev/fanatikprimebizimkiler.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,BLADE
+https://catcast.ismailturret.workers.dev/fanatikmaxblade.m3u8
+
+
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HiNT FILMLERI
+https://catcast.ismailturret.workers.dev/by-kerimof-hind-filmleri.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,ULDUZ TV
+https://catcast.ismailturret.workers.dev/ulduz-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,KEMAL SUNAL TV
+https://catcast.ismailturret.workers.dev/ksunal.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player Komedi
+https://catcast.ismailturret.workers.dev/playerkomedi-деревнядураков.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player Merhana
+https://catcast.ismailturret.workers.dev/playermeyxana-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player Cinema
+https://catcast.ismailturret.workers.dev/playercinema_peaky-brinders_1.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player genc muzik
+https://catcast.ismailturret.workers.dev/playergencmusic-az.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player hit muzik
+https://catcast.ismailturret.workers.dev/playermusic.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player Roman Havasi
+https://catcast.ismailturret.workers.dev/playerkomedi-romanhavasi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player Cinema Action
+https://catcast.ismailturret.workers.dev/playercınema.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player Cinema Az
+https://catcast.ismailturret.workers.dev/playercinema-azerbaycanfilm.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player Muzik Az
+https://catcast.ismailturret.workers.dev/playermusic aze.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player muzik Zewk
+https://catcast.ismailturret.workers.dev/playerzevqmusic.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player Komedi AZ 1
+https://catcast.ismailturret.workers.dev/playerkomedi-azfilm.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player CINEMA TURK
+https://catcast.ismailturret.workers.dev/playerfilm turkiye.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player HINT FILMLERI
+https://catcast.ismailturret.workers.dev/playercinema-hindfilmleri.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player WWE
+https://catcast.ismailturret.workers.dev/playerwwe.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player AZERBACAN FILM
+https://catcast.ismailturret.workers.dev/playerfilm-azerbaycan.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player CENNET MAHALLESI 
+https://catcast.ismailturret.workers.dev/playerkomedi-cennetmahallesi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player CENNET MAHALLESI 2
+https://catcast.ismailturret.workers.dev/playerkomedi-cennetmahallesi2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player CIZGI FILM SEVIMLILER
+https://catcast.ismailturret.workers.dev/playercizgifilm-sevmller.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player TRANSFORMERS
+https://catcast.ismailturret.workers.dev/playercinema-transformer1.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player KOMEDI BU SEHIRDE
+https://catcast.ismailturret.workers.dev/playerkomedi-bueherde.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player KOMEDI BU SEHIRDE 2
+https://catcast.ismailturret.workers.dev/playerkomedi-bueherde2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player Komedi AZ 1
+https://catcast.ismailturret.workers.dev/playerkomedi-bozbashpikcher.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player KOMEDI AZ 2
+https://catcast.ismailturret.workers.dev/playerkomedi-bozbashpictures1.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player JOHN WICK
+https://catcast.ismailturret.workers.dev/playerkanal.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player CIZGIFILM MASA VE AYI
+https://catcast.ismailturret.workers.dev/playerczgflm-maaveay.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player TOY MAHNILERI
+https://catcast.ismailturret.workers.dev/playertoy-mahnlar.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player CINEMA ACTION 2
+https://catcast.ismailturret.workers.dev/playercinema-acsion2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player TRANSFORMERS 2
+https://catcast.ismailturret.workers.dev/playercinema-transformer2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player CINEMA FANTASTIKA
+https://catcast.ismailturret.workers.dev/playercinema-fantastika.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player CINEMA ACTION 3
+https://catcast.ismailturret.workers.dev/playercinema-action3.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player SENER SEN
+https://catcast.ismailturret.workers.dev/playertrk-eneren.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player CINEMA ACTION 4
+https://catcast.ismailturret.workers.dev/playercinema-acsion4.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player CINEMA KONTINENTAL
+https://catcast.ismailturret.workers.dev/playercinema-kontinental.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player HIND MUZIK
+https://catcast.ismailturret.workers.dev/playerhind-music.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player VAN DAMME
+https://catcast.ismailturret.workers.dev/playercinema-vandamme.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player VATAN EVLADI
+https://catcast.ismailturret.workers.dev/player-vetenolu.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player QARABAG SAVASLARI
+https://catcast.ismailturret.workers.dev/playerfilm-vetenolu.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player MORTAL COMBAT
+https://catcast.ismailturret.workers.dev/playercinema-mortalcombat.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player MATRIX
+https://catcast.ismailturret.workers.dev/playercinema-matrix.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player SQUIDGAME 1
+https://catcast.ismailturret.workers.dev/playercinema-squidgame1.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player SQUIDGAME 2
+https://catcast.ismailturret.workers.dev/playercinema-squidgame 2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player SQUIDGAME 3
+https://catcast.ismailturret.workers.dev/playercinema-squidgame3.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player ALICE 1
+https://catcast.ismailturret.workers.dev/playercinema-alice1.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player ALICE 2
+https://catcast.ismailturret.workers.dev/playercinema-alice2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player ALICE 3
+https://catcast.ismailturret.workers.dev/playercinema-alice3.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player MARVEL 
+https://catcast.ismailturret.workers.dev/playercinema-marvel.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player CEHENNEM MELEKLERI
+https://catcast.ismailturret.workers.dev/playercinemacehennemmelekleri.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player ANTONIO BANDERAS
+https://catcast.ismailturret.workers.dev/playercinema-antoniobanderas.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player MAYMUNLAR
+https://catcast.ismailturret.workers.dev/playercinema-maymunlar.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player FORSAJ 1
+https://catcast.ismailturret.workers.dev/playercinema-forsaj1.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player FORSAJ 2
+https://catcast.ismailturret.workers.dev/playercinema-forsaj2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player BATMAN
+https://catcast.ismailturret.workers.dev/playercinema-batman.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player IPMAN
+https://catcast.ismailturret.workers.dev/playercinema-ipman.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player RAMBO
+https://catcast.ismailturret.workers.dev/playercinema-rambo.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player OLUM YARISI
+https://catcast.ismailturret.workers.dev/playercinema-olumyarisi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player HIND FILMLERI 5
+https://catcast.ismailturret.workers.dev/playercinema-hind_filmleri-5.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player BOLLYWOOD
+https://catcast.ismailturret.workers.dev/playercinema-bollywood.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player BOLLYWOOD
+https://catcast.ismailturret.workers.dev/playercnema-bollywood2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player JET LEE
+https://catcast.ismailturret.workers.dev/playercinema-jetlee.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player MARVEL 3
+https://catcast.ismailturret.workers.dev/playercinema-marvel3.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player JASON STATHAM
+https://catcast.ismailturret.workers.dev/playercinema-jasonstatham.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player ROCKY
+https://catcast.ismailturret.workers.dev/playercinema-rocky.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player BOYKA
+https://catcast.ismailturret.workers.dev/playercinema-BOYKA.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player CINEMA ACTION 5
+https://catcast.ismailturret.workers.dev/playercinema-action5.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player JACKE CHAN 1
+https://catcast.ismailturret.workers.dev/playercinema-jackechan.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player JACKE CHAN 2
+https://catcast.ismailturret.workers.dev/playercinema-jackechan2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player STEVEN SEGAL
+https://catcast.ismailturret.workers.dev/playercinema-stivensegal1.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player STEVEN SEGAL 2
+https://catcast.ismailturret.workers.dev/playercinema-stivensegal2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player PREMIUM 1
+https://catcast.ismailturret.workers.dev/playercinema-premium 1.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player JOHN WICK HD
+https://catcast.ismailturret.workers.dev/playercinema-johnwickhd.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player BRUCE LEE
+https://catcast.ismailturret.workers.dev/playercinema-bruslee.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player BRENDON LEE
+https://catcast.ismailturret.workers.dev/playercinema-brendonlee.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player TERMINATOR
+https://catcast.ismailturret.workers.dev/playercinema-terminator.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player MARVEL 2
+https://catcast.ismailturret.workers.dev/playercinema-marvel2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player VAN DAMME 2
+https://catcast.ismailturret.workers.dev/playercinema-vandamme2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player PREMIUM 2
+https://catcast.ismailturret.workers.dev/playercinema-premium2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player ORUMCEK ADAM
+https://catcast.ismailturret.workers.dev/playercinema-horumcekadam.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player GODZILLA
+https://catcast.ismailturret.workers.dev/playercinema-godzilla 1.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player CIZGI FILM TOM VE JERRY
+https://catcast.ismailturret.workers.dev/playercizgifilm-tomvejerry.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player HIND FILMLERI 2
+https://catcast.ismailturret.workers.dev/playercinema-hind_filmleri-2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player HIND FILMLERI 3
+https://catcast.ismailturret.workers.dev/playercinema-hind_filmleri-3.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player HIND FILMLERI 4
+https://catcast.ismailturret.workers.dev/playercinema-hind_filmleri-4.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player HIND FILMLERI 6
+https://catcast.ismailturret.workers.dev/playercinema-hind_filmleri-6.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player AZ DUBLAJ 1
+https://catcast.ismailturret.workers.dev/playercinema-aze_dublyaj-1.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player AZ DUBLAJ 2
+https://catcast.ismailturret.workers.dev/playercinema-aze_dublaj-2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player AZ DUBLAJ 3
+https://catcast.ismailturret.workers.dev/playercinema-aze_dublaj-3.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player AZ DUBLAJ 4
+https://catcast.ismailturret.workers.dev/playercinema-aze_dublaj-4.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player AZ DUBLAJ 5
+https://catcast.ismailturret.workers.dev/playercinema-aze_dublaj-5.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player AZ DUBLAJ 6
+https://catcast.ismailturret.workers.dev/playercinema-aze_dublaj-6.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player AZ DUBLAJ 7
+https://catcast.ismailturret.workers.dev/playercinema-aze_dublaj-7.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player AZ DUBLAJ 8
+https://catcast.ismailturret.workers.dev/playercinema-aze_dublaj-8.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player AZ DUBLAJ 9
+https://catcast.ismailturret.workers.dev/playercinema-aze_dublaj-9.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player AZ DUBLAJ 10
+https://catcast.ismailturret.workers.dev/playercinema-aze_dublaj-10.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player AZ DUBLAJ
+https://catcast.ismailturret.workers.dev/playercinema_aze-dublaj_11.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player AZ FILM
+https://catcast.ismailturret.workers.dev/playerfilm-azerbaycan-2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player ASKERI FILMLER
+https://catcast.ismailturret.workers.dev/playercinema-universal-esger.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player CIZGI FILM ARABALAR
+https://catcast.ismailturret.workers.dev/playercizgifilm-maşınlar.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player MARVEL 4
+https://catcast.ismailturret.workers.dev/playercnema-marvel4.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player MARVEL 5
+https://catcast.ismailturret.workers.dev/playercnema-marvel5.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player MARVEL 6
+https://catcast.ismailturret.workers.dev/playercnema-marvel6.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player ACTION 6
+https://catcast.ismailturret.workers.dev/playercnema-action6.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player YIRTICI 1
+https://catcast.ismailturret.workers.dev/playercnema-yirtici.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player YIRTICI 2
+https://catcast.ismailturret.workers.dev/playercnema-yirtici2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player PREMIUM 3
+https://catcast.ismailturret.workers.dev/playercinema-premium3.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player MADACASKAR
+https://catcast.ismailturret.workers.dev/playercizgifilm-madagascar.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player SHREK
+https://catcast.ismailturret.workers.dev/playercizgifilm-rekejdaha.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player PANDA 1
+https://catcast.ismailturret.workers.dev/playercizgifilm-panda1.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player PANDA 2
+https://catcast.ismailturret.workers.dev/playercizgifilm-panda2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player PREMIUM 4
+https://catcast.ismailturret.workers.dev/playercinema-premium4.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player PREMIUM 5
+https://catcast.ismailturret.workers.dev/playercinema-premium5.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player PREMIUM 6
+https://catcast.ismailturret.workers.dev/playercinema_premium-6.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player BUZ DEVRI
+https://catcast.ismailturret.workers.dev/playercizgifilm_buz-devri.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player BERNARD
+https://catcast.ismailturret.workers.dev/playercizgifilm_bernard.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player DISNEY
+https://catcast.ismailturret.workers.dev/playercizgifilm_disney.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player OSTERIS VE ASTERIS
+https://catcast.ismailturret.workers.dev/playercinema_obiriks-ve-asteri.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player CIZGI FILM OSTERIS VE ARTERIS
+https://catcast.ismailturret.workers.dev/playercizgifilm_obiriks-ve-ast.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player KELEBEKLER
+https://catcast.ismailturret.workers.dev/playercinema_butterfly_1.m3u8
 
 
 
@@ -2859,8 +3161,6 @@ https://jmp2.uk/plu-655ca3d1fbc15b00081f1186.m3u8
 https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Melrose Place
 https://jmp2.uk/plu-64be745340962900080b55e7.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Merhaba Türkische Serien
-https://jmp2.uk/plu-6864e8f264d94c1425fb4563.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Mission Impossible
 https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Missions
@@ -3214,9 +3514,34 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,FOX NEWS
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,FOX WETTER
-https://content.uplynk.com/db88cebb80ea46269a1b2691871f3660.m3u8
+https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,FOX SPORT
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                      tvg-logo="https://picserve.netplus.ch/channels/skynews.png"                                       ,Newsmax 
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                      tvg-logo="https://picserve.netplus.ch/channels/skynews.png"                                       ,Buzzr tV
+https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/playlist.m3u8
+
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                      tvg-logo="https://picserve.netplus.ch/channels/skynews.png"                                       ,Bloomberg 
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                      tvg-logo="https://picserve.netplus.ch/channels/skynews.png"                                       ,cbcn
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                      tvg-logo="https://picserve.netplus.ch/channels/skynews.png"                                       ,Yahoo Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                      tvg-logo="https://picserve.netplus.ch/channels/skynews.png"                                       ,TBN
+https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
+
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                      tvg-logo="https://picserve.netplus.ch/channels/skynews.png"                                       ,DANCE TV
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                      tvg-logo="https://picserve.netplus.ch/channels/skynews.png"                                       ,DANCE TV
+https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                      tvg-logo="https://picserve.netplus.ch/channels/skynews.png"                                       ,DANCE TV
+https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+
+
+
 
 
 
@@ -4186,6 +4511,142 @@ http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=335&extens
 
 
 
+
+
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Yer Altı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yeralti.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Annem Ankara
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Annem.Ankara.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Arka Sokaklar
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Arka.Sokaklar.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Aşk Evlilik Boşanma
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.Evlilik.Bosanma.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Aşk Ve Gözyaşı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.Ve.Gozyasi.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Aynadaki Yabancı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Aynadaki.Yabanci.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Bahar
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bahar.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Başka Bir Gün
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Baska.Bir.Gun.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Ben Leman
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ben.Leman.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Ben Onun Annesiyim
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ben.Onun.Annesiyim.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Bereketli Topraklar
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bereketli.Topraklar.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Bir Gece Masalı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Gece.Masali.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Bir Zamanlar Istanbul
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Zamanlar.Istanbul.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Can Borcu
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Can.Borcu.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Çarpıntı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Carpinti.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Cennetin Çocukları
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cennetin.Cocuklari.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Çift Kişilik Oda
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cift.Kisilik.Oda.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Çok Güzel Hareketler
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cok.Guzel.Hareketler.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Çok Güzel Hareketler
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cok.Guzel.Hareketler.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Deha
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Deha.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Esref Rüya
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Esref.Ruya.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Gizli Bahçe
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gizli.Bahce.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Gönül Dağı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gonul.Dagi.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Gözleri Karadeniz
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gozleri.KaraDeniz.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Güldür Güldür
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guldur.Guldur.Show.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Güller Ve Günahlar
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guller.ve.Gunahlar.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Güzel Aşklar Diyarı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guzel.Asklar.Diyari.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Halef
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Halef.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Holding
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Holding.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Hudutsuz Sevda
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Hudutsuz.Sevda.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Inci Taneleri
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Inci.Taneleri.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Kalpazan
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kalpazan.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Kara Ağaç Destanı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kara.Agac.Destani.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Karadut
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Karadut.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Kardelenler
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kardelenler.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Kirli Sepeti
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kirli.Sepeti.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Kıskanmak
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kiskanmak.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Kıskanmak
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kiskanmak.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Kızıl Koncalar
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kizil.Goncalar.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Kızılcık Şerbeti
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kizilcik.Serbeti.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Konuşanlar
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Konusanlar.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Kör Nokta
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kor.Nokta.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Kötü Kan
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kotu.Kan.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Kral Kabederse
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kral.Kaybederse.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Kudüs Fatihi Selahaddin Eyyubi
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Selahaddin.Eyyubi.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Kuruluş Orhan
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kurulus.Orhan.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Kuruluş Osman
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kurulus.Osman.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Leyla
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Leyla.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Mehmed Fetihler Sultanı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Mehmed.Fetihler.Sultani.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Piyasa
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Piyasa.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Sahipsizler
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahipsizler.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Sahtekarlar
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahtekarlar.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Şakir Paşa Ailesi
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sakirpasa.Ailesi.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Sandık Kokusu
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sandik.Kokusu.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Selahaddin Eyyubi
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Selahaddin.Eyyubi.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Sen Ağlama Istanbul
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sen.Aglama.istanbul.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Sevdiğim Sensin
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sevdigim.Sensin.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Siyah Kalp
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Siyah.Kalp.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Taş Kağıt Makas
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tas.Kagit.Makas.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Taşacak Bu Deniz
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tasacak.Bu.Deniz.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Teşkilat
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Teskilat.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Uzak Şehir
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Uzak.Sehir.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Veliaht
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Veliaht.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Yabani
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yabani.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Yalan
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yalan.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Yalı Çapkını
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yali.Capkini.SON.mkv
+#EXTINF:-1 group-title="🇹🇷 | DIZI FINAL"   tvg-id=""                       tvg-logo=""                                                                                       ,Zembilli
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
 
 
 
