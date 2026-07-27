@@ -543,6 +543,49 @@ https://camiatv-live.ercdn.net/camiatv/camiatv.m3u8
 #######  DIZI & FILM       ##########################################################################################################################################################################
 #####################################################################################################################################################################################################
 
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,KRAL TURK
+https://catcast.ismailturret.workers.dev/kralturk.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,TEBER TV
+https://catcast.ismailturret.workers.dev/tebertv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,TURKUZPLAY 1
+https://catcast.ismailturret.workers.dev/turkuzplay1.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,TURKUZPLAY 2
+https://catcast.ismailturret.workers.dev/turkuzplay2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,RIHAT TV
+https://catcast.ismailturret.workers.dev/rihattv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,TV 1
+https://catcast.ismailturret.workers.dev/m-724.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,TV 2
+https://catcast.ismailturret.workers.dev/karisikyayin.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,BAYZAN MUSIC
+https://catcast.ismailturret.workers.dev/bayzan-music.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,BAYZAN MUSIC HITs
+https://catcast.ismailturret.workers.dev/bayzan-hits.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,BAYZAN BALACAN
+https://catcast.ismailturret.workers.dev/balacan-tv-diginet.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,BAYZAN MUSIC SLOW
+https://catcast.ismailturret.workers.dev/bayzan-slow.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,ALVIN MUSIC
+https://catcast.ismailturret.workers.dev/alvinmusic.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,ALVIN AVCI
+https://catcast.ismailturret.workers.dev/AlvinOvcu.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,FLUX TV
+https://catcast.ismailturret.workers.dev/fluxtv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,MUSTAFA CECELLI
+https://catcast.ismailturret.workers.dev/mustafa-ceceli.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,ASI ISTILA
+https://catcast.ismailturret.workers.dev/asi-styla.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,OSMANLI TOKADI
+https://catcast.ismailturret.workers.dev/osmanli-tokadi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,BEN10
+https://catcast.ismailturret.workers.dev/ben10.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,KUBRA YILDIZ
+https://catcast.ismailturret.workers.dev/kubra-yildiz.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,ARSIZ BELA
+https://catcast.ismailturret.workers.dev/arszbela.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,ECE SECKIN
+https://catcast.ismailturret.workers.dev/ece_seckin.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,musicmax
 https://catcast.ismailturret.workers.dev/musicmax.m3u8
 #EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,mtv
@@ -887,6 +930,65 @@ https://catcast.ismailturret.workers.dev/playercinema_obiriks-ve-asteri.m3u8
 https://catcast.ismailturret.workers.dev/playercizgifilm_obiriks-ve-ast.m3u8
 #EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player KELEBEKLER
 https://catcast.ismailturret.workers.dev/playercinema_butterfly_1.m3u8
+
+
+
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | YELLOW INFO
+yellow-info.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | YELLOW TV
+yelowtvhu.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | YELLOW GIPSY
+yellow-gipsy.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | YELLOW KIDS
+yellow-kids.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | FILMSZONE
+filmzone.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | FILMSZONE 2
+film-2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | FOX
+foxhu.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | RTL
+rtl.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | RTL II
+rtl-2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | HBO
+hbo4.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | PREMIER
+premiertv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | AXN GOLD
+axn-gold.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | SLAGER
+slager-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | M4 SPORT
+m4sport.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | LV N+
+https://catcast.ismailturret.workers.dev/lv- Nightgirl.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | VHS HITS
+https://catcast.ismailturret.workers.dev/vhs-tv-vintage-tits.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | KOMINE +
+https://catcast.ismailturret.workers.dev/телеканал-комуза18.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | MUT+
+https://catcast.ismailturret.workers.dev/mutluhub.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | DIKH
+dikh-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | FILMNOW
+filmnow.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | FIDES
+fidesz-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | M6
+m6tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | SPORT 4
+sport4.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | MUSIC MIX
+musicmix.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | RADIO 1
+radio1-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | MOZI 3
+mozi3.m3u8
+#EXTINF:-1 group-title="🇹🇷 | CATCAST CH"   tvg-id""                        tvg-logo=""                                                                                       ,HU | M3
+m3-hd.m3u8
+
+
 
 
 
@@ -3549,6 +3651,8 @@ https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,CGTN Documentary
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,FRANCE NEWS 24
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,NEWS WORLD
