@@ -111,6 +111,34 @@ https://app.viloud.tv/hls/channel/4910caf2a5c7075f98594245dfcb8824.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo="https://ftv.az/assets/img/logo.png"                                                     ,FTV AZ
 https://stream.ftv.az/live/ftv.m3u8
 
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                       ,HABABAM TV
+https://catcast.ismailturret.workers.dev/hababam.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 2
+https://catcast.ismailturret.workers.dev/fanatikmaxyesilcam.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 3
+https://catcast.ismailturret.workers.dev/playerkomedi-kemalsunal.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 4
+https://catcast.ismailturret.workers.dev/playertest.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 5
+https://catcast.ismailturret.workers.dev/playerkomedi-kemalsunal 3.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 6
+https://catcast.ismailturret.workers.dev/playertrk-eneren.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 7
+https://catcast.ismailturret.workers.dev/ksunal.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM 8
+https://catcast.ismailturret.workers.dev/playerfilm turkiye.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                       ,SALON 1
+https://catcast.ismailturret.workers.dev/playercinema-jackechan.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                       ,SALON 2
+https://catcast.ismailturret.workers.dev/playercinema-jackechan2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player JACKE CHAN 1
+https://catcast.ismailturret.workers.dev/playercinema-jackechan.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                       ,Player JACKE CHAN 2
+https://catcast.ismailturret.workers.dev/playercinema-jackechan2.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                       ,KRAL TURK
+https://catcast.ismailturret.workers.dev/kralturk.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,KDC TV
 https://tv191.radyotelekom.com.tr:3466/stream/play.m3u8
