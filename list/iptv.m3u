@@ -263,6 +263,8 @@ https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,SPORTS TV
 http://tv.smartglwiz.workers.dev/?ID=SportsTV_HD.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN SPORT
+https://raw.githubusercontent.com/46tv/mix/main/feed/test_b1.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN SPORT
 https://one.caec6083d6b01cf5.click/live/sbeinsports-1/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN SPORT DIRECK
 https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4194.m3u8
@@ -2838,6 +2840,8 @@ https://edge.kuzeykibrissmart.tv/adatv/bant1/playlist.m3u8
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇨🇾 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,GENC TV
 https://edge.kuzeykibrissmart.tv/kibrisgenctv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇾 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,GENC TV
+https://live.euromediacenter.com/turkishpress/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇨🇾 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL T
 https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8
 #EXTINF:-1 group-title="🇨🇾 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KIBRIS TV
@@ -3702,7 +3706,7 @@ https://xite-germany-lg.amagi.tv/playlist.m3u8
 #####################################################################################################################################################################################################
 
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id".tr"                    tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/turkishpress.png"                  ,TURKISH PRESS
-https://live.euromediacenter.com/turkishpress/tracks-v1a1/mono.m3u8
+https://live.euromediacenter.com/euronews34/video.m3u8
 
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="TRTWorld.tr"           tvg-logo=""                                                                                       ,TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
