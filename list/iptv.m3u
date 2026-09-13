@@ -209,6 +209,8 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="turkhaber.tr"           tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/THHABER.png"                       ,TH HABER	
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="turkhaber.tr"           tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/THHABER.png"                       ,TH HABER	
+https://edge2.taksimbilisim.com/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="haber61.tr"             tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/"                                  ,HABER 61	
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/MELTEMTV.png"                      ,MELTEM TV
@@ -548,6 +550,12 @@ https://592f1881b3d5f.streamlock.net:1443/santraltv_294/santraltv_294/chunklist.
 http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,CAMIA TV
 https://camiatv-live.ercdn.net/camiatv/camiatv.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,BOZKURT TV
+https://live.euromediacenter.com/boukurttv/tracks-v1a1/mono.m3u8
+
+
+
 
 #####################################################################################################################################################################################################
 #######  DIZI & FILM       ##########################################################################################################################################################################
@@ -1023,6 +1031,9 @@ https://catcast.ismailturret.workers.dev/m3-hd.m3u8
 #######  YEREL             ##########################################################################################################################################################################
 #####################################################################################################################################################################################################
 
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,KARDELEN TV
+https://edge2.taksimbilisim.com/kardelentv/bant1/playlist.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/bikanal.png"                       ,BI KANAL
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/"                                  ,BIR TV
@@ -1054,7 +1065,7 @@ http://51.91.118.139:8080/live/kastamonutv/kastamonutv/3385.m3u8
 https://tv191.radyotelekom.com.tr:3612/stream/play.m3u8
 
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                       ,KON TV
-http://tv.smartglwiz.workers.dev/?ID=KonTV_HD.m3u8
+https://canli.kontv.com.tr/live/kontv.m3u8
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                       ,KONYA KTV
 https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                       ,KONYA TV42
@@ -2570,14 +2581,40 @@ http://siriustv.streams-supersatforum.workers.dev/index.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,Cocuk Yuvasi
+https://camstream.kahramanmaras.bel.tr/live/cocukyuvasi.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,Dr Mustafa
+https://camstream.kahramanmaras.bel.tr/live/drmustafa.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,PEKELLER
+https://camstream.kahramanmaras.bel.tr/live/pekeller.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,SELALE KAVSAGI
 https://camstream.kahramanmaras.bel.tr/live/selale.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,ULU CAMII
 https://camstream.kahramanmaras.bel.tr/live/ulucami.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,KAPALI CARSI 1
+https://camstream.kahramanmaras.bel.tr/live/kapalicarsi1.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,KAPALI CARSI 2
+https://camstream.kahramanmaras.bel.tr/live/kapalicarsi2.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,Mehmet AKIF
+https://camstream.kahramanmaras.bel.tr/live/mehmetakif.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,NECIPFAZIL
+https://camstream.kahramanmaras.bel.tr/live/necipfazil.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,TERAS CAFE DOGU
+https://camstream.kahramanmaras.bel.tr/live/terasdogu.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,TERAS CAFE BATI
+https://camstream.kahramanmaras.bel.tr/live/terasbati.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,YEDI KUYULAR
+https://camstream.kahramanmaras.bel.tr/live/yedikuyular.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,TAVSAN TEPE
 https://camstream.kahramanmaras.bel.tr/live/tavsantepe.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,EXPO
 https://camstream.kahramanmaras.bel.tr/live/expo.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,BOGAZICI KAVSAGI
+https://camstream.kahramanmaras.bel.tr/live/bogazici.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,MALIK EJDER
+https://camstream.kahramanmaras.bel.tr/live/malik-ejder.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,AFSIN
 https://camstream.kahramanmaras.bel.tr/live/afsin.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,ANDIRIN
@@ -2586,14 +2623,20 @@ https://camstream.kahramanmaras.bel.tr/live/andirin.stream/playlist.m3u8
 https://camstream.kahramanmaras.bel.tr/live/caglayan-cerit.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,ELBISTAN MEYDAN
 https://camstream.kahramanmaras.bel.tr/live/elbistan-meydan.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,ELBISTAN BATTALGAZI
+https://camstream.kahramanmaras.bel.tr/live/elbistanbattalgazi.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,EKINOZU
 https://camstream.kahramanmaras.bel.tr/live/ekinozu.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,GOKSUN KAVSAGI
 https://camstream.kahramanmaras.bel.tr/live/goksun.stream/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,BOgAZICI KAVSAGI
-https://camstream.kahramanmaras.bel.tr/live/bogazici.stream/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,MALIK EJDER
-https://camstream.kahramanmaras.bel.tr/live/malik-ejder.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,NURHAK
+https://camstream.kahramanmaras.bel.tr/live/nurhak.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,PAZARCIK
+https://camstream.kahramanmaras.bel.tr/live/pazarcik.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KMARAS CH"  tvg-id""                        tvg-logo=""                                                                                        ,TURKOGLU
+https://camstream.kahramanmaras.bel.tr/live/turkoglu.stream/playlist.m3u8
+
+
 
 
 
@@ -3681,6 +3724,8 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,FRANCE NEWS 24
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,FRANCE NEWS 24
+https://euromediacenter.com/france-24-english-1576-1576.m3u8
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,NEWS WORLD
 https://amg01076-amg01076c23-rakuten-it-8815.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworlditaly-rakutenit/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="bbcworld.uk"           tvg-logo="https://picserve.netplus.ch/channels/bbcworld.png"                                      ,BBC NEWS HD
@@ -3739,11 +3784,37 @@ https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,RO Antena
 http://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,RO TVR SPORT
+https://hls01ns.antenaplay.ro/hls/tvr-sport-hd/index.m3u8
 
 
 
 
 
+#EXTINF:-1 group-title="🇹🇷 | KURDISCH CH" ,TRT KURDI
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KURDISCH CH" ,STERK
+https://zindi.sterk.tv/live/sterk.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KURDISCH CH" ,RUDAW
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KURDISCH CH" ,PMC
+https://pmchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KURDISCH CH" ,ROJHELAT
+https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KURDISCH CH" ,MISIC
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KURDISCH CH" ,VOA PERSIAN
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KURDISCH CH" ,MBC PERSIAN
+https://hls.mbcpersia.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KURDISCH CH" ,KURDSAT NEWS
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KURDISCH CH" ,KURDSAT
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KURDISCH CH" ,K24
+https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KURDISCH CH" ,KURD CH
+https://kurdchhls.wns.live/hls/stream.m3u8
 
 
 
@@ -4364,348 +4435,6 @@ http://umperisn.mywire.org/index.php?id=598046&token=DeaTHLesS
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD+" group-title="TR | ULUSAL"			,TR: TRT 1 HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=215&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD+" group-title="TR | ULUSAL"			,TR: TRT 1 HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=229&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD" group-title="TR | ULUSAL"			,TR: TRT 1 HD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=460529&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 INT" group-title="TR | ULUSAL"			,TR: TRT 1 HD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=242&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 INT" group-title="TR | ULUSAL"			,TR: TRT 1 HD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=331&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: TRT 1 HD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=351&extension=ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD+" group-title="TR | ULUSAL"			,TR: ATV HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=231&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" group-title="TR | ULUSAL"			,TR: ATV HD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=217&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV HD+" group-title="TR | ULUSAL"		,TR: STAR TV HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=232&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV HD" group-title="TR | ULUSAL"		,TR: STAR TV HD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=224&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV HD+" group-title="TR | ULUSAL"		,TR: SHOW TV HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=233&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV HD" group-title="TR | ULUSAL"		,TR: SHOW TV HD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=223&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D HD+" group-title="TR | ULUSAL"		,TR: KANAL D HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=213&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D HD+" group-title="TR | ULUSAL"		,TR: KANAL D HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=230&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D HD" group-title="TR | ULUSAL"		,TR: KANAL D HD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=225&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: FOX/NOW TV HD+" group-title="TR | ULUSAL"		,TR: FOX/NOW TV HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=234&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FOX/NOW TV HD" group-title="TR | ULUSAL"		,TR: FOX/NOW TV HD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=218&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 HD+" group-title="TR | ULUSAL"			,TR: TV 8 HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=251&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 HD" group-title="TR | ULUSAL"			,TR: TV 8 HD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=221&extension=ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 HD" group-title="TR | ULUSAL"			,TR: TV 8.5 HD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=212&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 HD+" group-title="TR | ULUSAL"		,TR: TV 8.5 HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=222&extension=ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV HD+" group-title="TR | ULUSAL"		,TR: BEYAZ TV HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=237&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV HD" group-title="TR | ULUSAL"		,TR: BEYAZ TV HD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=219&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE 2 HD+" group-title="TR | ULUSAL"		,TR: TEVE 2 HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=257&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE 2 HD" group-title="TR | ULUSAL"			,TR: TEVE 2 HD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=226&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: A2 HD+" group-title="TR | ULUSAL"			,TR: A2 HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=227&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: A2 HD" group-title="TR | ULUSAL"			,TR: A2 HD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=216&extension=ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 HD+" group-title="TR | ULUSAL"		,TR: KANAL 7 HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=238&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 HD" group-title="TR | ULUSAL"		,TR: KANAL 7 HD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=220&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 AVRUPA" group-title="TR | ULUSAL"		,TR: KANAL 7 AVRUPA
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=70887&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV HD+" group-title="TR | ULUSAL"		,TR: 360 TV HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=254&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 4 HD+" group-title="TR | ULUSAL"			,TR: TV 4 HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=258&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT EU" group-title="TR | ULUSAL"			,TR: TGRT EU
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=110477&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVI 6 HD" group-title="TR | ULUSAL"			,TR: TIVI 6 HD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=404647&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TABII TV HD+" group-title="TR | ULUSAL"		,TR: TABII TV HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=404644&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 4K 2160P" group-title="TR | ULUSAL"		,TR: TRT 4K 2160P
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=245&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 4K" group-title="TR | ULUSAL"			,TR: TRT 4K
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=244&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 4K" group-title="TR | ULUSAL"			,TR: TRT 4K
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=245&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2 HD+" group-title="TR | ULUSAL"			,TR: TRT 2 HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=215&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2 HD+" group-title="TR | ULUSAL"			,TR: TRT 2 HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=257&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT TURK HD+" group-title="TR | ULUSAL"		,TR: TRT TURK HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=110478&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT AVAZ HD+" group-title="TR | ULUSAL"		,TR: TRT AVAZ HD+
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=110475&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW MAX" group-title="TR | ULUSAL"			,TR: SHOW MAX
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=239&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TURK" group-title="TR | ULUSAL"			,TR: SHOW TURK
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=209141&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV AVRUPA" group-title="TR | ULUSAL"		,TR: ATV AVRUPA
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=240&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EURO STAR" group-title="TR | ULUSAL"			,TR: EURO STAR
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=241&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EURO D" group-title="TR | ULUSAL"			,TR: EURO D
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=213&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TYT TURK" group-title="TR | ULUSAL"			,TR: TYT TURK
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=637916&extension=ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: TV NET
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=256&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: FB TV
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=259&extension=ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN Sport 1
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=286&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN Sport 2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=262&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN Sport 2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=289&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN Sport 3
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=263&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN Sport 3
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=290&extension=ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN Sport 4
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=264&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN Sport 4
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=291&extension=ts
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN Sport 1 MaX
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=265&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN Sport 1 MaX
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=292&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN Sport 2 MaX
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=266&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN Sport 2 MaX
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=293&extension=ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN Sport Haber
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=267&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN Sport Haber
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=285&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Tivibusport 1
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=268&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Tivibusport 1
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=298&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Tivibusport 2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=269&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Tivibusport 2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=299&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Tivibusport 3
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=270&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Tivibusport 3
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=300&extension=ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Ssport
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=271&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Ssport
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=294&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Ssport
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=305&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Ssport 2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=295&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Smart sport
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=297&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Smart sport
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=301&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Smart sport 2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=272&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Smart sport 2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=302&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: ESPN
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=274&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Eurosport 1
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=275&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Eurosport 2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=276&extension=ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Sport tV
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=278&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: TJK Tv
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=279&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Aspor
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=280&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Aspor
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=284&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: TRT SPOR
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=281&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: TRT spor 2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=282&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Sömine
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=307&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN Series 1
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=306&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN Series 1
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=309&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN Series 4
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=308&extension=ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: filmAX Macera
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=382&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: filmAX korku
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=383&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: filmAX Aksiyon
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=385&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: filmAX Yerli
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=385&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: filmAX Komedi
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=388&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: filmAX GOLD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=389&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: RedBOX
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=386&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: RedBOX 1
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=390&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: RedBOX MIX
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=395&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: RedBOX VIZYON
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=396&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: RedBOX AKSIYON
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=392&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: RedBOX BILIMKURGU
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=393&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: RedBOX TURK
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=391&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: RedBOX TURK 2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=399&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: RedBOX KORKU
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=394&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: RedBOX DRAMA
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=398&extension=ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: BYZBOX Yerli
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=318&extension=ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN movies Premiere
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=312&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN movies Premiere
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=317&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN movies Turk
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=316&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: movieSmart
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=349&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: movieSmart Classic
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=350&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: CineStar 2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=356&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Sinema Aksiyon
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=335&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Sinema Aksiyon
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=360&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Sinema tv
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=358&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Sinema tv2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=359&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Sinema Aile
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=362&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Sinema Aile2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=363&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Sinema komedi
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=364&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Sinema komedi2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=365&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Sinema yerli
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=366&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Sinema yerli2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=367&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Sinema 1001
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=368&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Sinema 1002
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=369&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: cocuksmart
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=370&extension=ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN box Office
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=313&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN box Office 1
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=314&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: beIN box Office 2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=315&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Dizi Smart
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=332&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Dizi Smart max
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=352&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: FX
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=354&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name=""             group-title="TR | ULUSAL"			,TR: Sinema Aksiyon
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=335&extension=ts
 
 
 
