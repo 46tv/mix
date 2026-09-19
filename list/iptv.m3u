@@ -262,15 +262,22 @@ http://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,SPORTS TV
 http://tv.smartglwiz.workers.dev/?ID=SportsTV_HD.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN SPORT *
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,B S *
 https://raw.githubusercontent.com/46tv/mix/main/feed/test_b1.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN SPORT
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,B S
 https://one.caec6083d6b01cf5.click/live/sbeinsports-1/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,B S 1
+http://tv.atomspor.workers.dev/?ID=bein-sports-1
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,B S 2
+http://tv.atomspor.workers.dev/?ID=bein-sports-2
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,B S 3
+http://tv.atomspor.workers.dev/?ID=bein-sports-3
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,B S 4
+http://tv.atomspor.workers.dev/?ID=bein-sports-4
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN SPORT DIRECK
 https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4194.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,BEIN SPORT XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id""                        tvg-logo=""                                                                                       ,TABII SPOR
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 https://andro.226503.xyz/checklist/androstreamlivetb.m3u8
@@ -1540,6 +1547,14 @@ http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,4U TV
 https://hls.4utv.live/hls/stream.m3u8
+
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,SAGLIK TV
+https://live.euromediacenter.com/saglikchannel/index.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,TV MOR
+https://live.euromediacenter.com/tvmor/index.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,KANAL 34
+https://live.euromediacenter.com/kanal34/index.m3u8
+
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id="KanalD.al"              tvg-logo="https://i.imgur.com/9o1atM6.png"                                                         ,KANAL D DRAMA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id="KanalD.al"              tvg-logo="https://i.imgur.com/9o1atM6.png"                                                         ,KANAL D DRAMA
@@ -2116,7 +2131,9 @@ https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id="TV2.tr"                 tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TEVE2.png"                         ,TEVE2
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12984&.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id="TV2.tr"                 tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TEVE2.png"                         ,TEVE2
-https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8´
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id="TV2.tr"                 tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TEVE2.png"                         ,TEVE2
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id="TV2.tr"                 tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TEVE2.png"                         ,TEVE2
 http://46.32.176.50/tv2/playlist.m3u8
 
@@ -3744,7 +3761,10 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id="skynews.uk"            tvg-logo="https://picserve.netplus.ch/channels/skynews.png"                                       ,sky news
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8
-
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,ACCU WEATHER
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,FOX NEWS
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
@@ -3766,6 +3786,7 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                      tvg-logo="https://picserve.netplus.ch/channels/skynews.png"                                       ,Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
 
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                      tvg-logo="https://picserve.netplus.ch/channels/skynews.png"                                       ,TBN
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
@@ -3790,8 +3811,8 @@ https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 http://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,RO TVR SPORT
 https://hls01ns.antenaplay.ro/hls/tvr-sport-hd/index.m3u8
-
-
+#EXTINF:-1 group-title="🇬🇧 | ENGLISCH CH" tvg-id=""                                                                                                                        ,ESTERELLA TV
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
 
 
 
@@ -3819,6 +3840,8 @@ https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
 #EXTINF:-1 group-title="🇹🇷 | KURDISCH CH" ,KURD CH
 https://kurdchhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 | KURDISCH CH" ,JIN TV
+https://live.jintv.org/medialive/jintv.m3u8
 
 
 
