@@ -102,7 +102,7 @@ https://ip.akkontv.com:3205/stream/play.m3u8
 http://serhattv.streams-supersatforum.workers.dev/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,YESILCAM
 http://cineplus-yesilcam.supersatadmin.workers.dev/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"    tvg-id=""                       tvg-logo=""                                                                                       ,BASKA TV
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,BASKA TV
 http://baskatv.streams-supersatforum.workers.dev/baskatv.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id=""                       tvg-logo=""                                                                                       ,DIZI ZALIM ISTANBUL
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
