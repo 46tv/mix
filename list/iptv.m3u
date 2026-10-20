@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="TRT1.tr"                tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TRT1.png"                          ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="TRT2.tr"                tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TRT2.png"                          ,TRT 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48841
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="BEYAZTV.tr"             tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/BEYAZTV.png"                       ,BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"    tvg-id="TV4.tr"                 tvg-logo="https://raw.githubusercontent.com/46tv/mix/main/logo/TV4.png"                           ,TV 4
