@@ -4702,8 +4702,12 @@ https://dsmartgo-live.ercdn.net/dsmartgo/ntv/ntv.isml/playlist.m3u8
 
 
 
-#EXTINF:-1 ,SALAKO
+#EXTINF:-1,SALAKO 1
 https://dn710009.ca.archive.org/0/items/salako_movie/Salako _ FULL HD.ia.mp4
+#EXTINF:-1,SALAKO 2
+https://archive.org/embed/salako_movie/Salako _ FULL HD.mp4
+#EXTINF:-1,SALAKO 3
+https://archive.org/download/salako_movie/Salako _ FULL HD.ia.mp4
 
 
 
